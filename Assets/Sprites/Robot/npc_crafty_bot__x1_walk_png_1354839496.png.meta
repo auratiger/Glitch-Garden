@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 42306a2b99d792545b50252746446ce6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5726925138250405396
+    second: npc_crafty_bot__x1_walk_png_1354839496_0
+  - first:
+      213: -8215711871879750707
+    second: npc_crafty_bot__x1_walk_png_1354839496_1
+  - first:
+      213: 5059733511724386306
+    second: npc_crafty_bot__x1_walk_png_1354839496_2
+  - first:
+      213: 9140037947023951880
+    second: npc_crafty_bot__x1_walk_png_1354839496_3
+  - first:
+      213: -4053387313637278645
+    second: npc_crafty_bot__x1_walk_png_1354839496_4
+  - first:
+      213: -3010425491207552994
+    second: npc_crafty_bot__x1_walk_png_1354839496_5
+  - first:
+      213: -8101769042430556408
+    second: npc_crafty_bot__x1_walk_png_1354839496_6
+  - first:
+      213: 4289376126601182232
+    second: npc_crafty_bot__x1_walk_png_1354839496_7
+  - first:
+      213: 2030677755028582953
+    second: npc_crafty_bot__x1_walk_png_1354839496_8
+  - first:
+      213: -8431712488763055254
+    second: npc_crafty_bot__x1_walk_png_1354839496_9
+  - first:
+      213: 430643996812916215
+    second: npc_crafty_bot__x1_walk_png_1354839496_10
+  - first:
+      213: 1403572843335079421
+    second: npc_crafty_bot__x1_walk_png_1354839496_11
+  - first:
+      213: -4473111106467858341
+    second: npc_crafty_bot__x1_walk_png_1354839496_12
+  - first:
+      213: -5553337118175256842
+    second: npc_crafty_bot__x1_walk_png_1354839496_13
+  - first:
+      213: 1982475874192083839
+    second: npc_crafty_bot__x1_walk_png_1354839496_14
+  - first:
+      213: 5798937209259943525
+    second: npc_crafty_bot__x1_walk_png_1354839496_15
+  - first:
+      213: 3673490575435399748
+    second: npc_crafty_bot__x1_walk_png_1354839496_16
+  - first:
+      213: 3034005697756454769
+    second: npc_crafty_bot__x1_walk_png_1354839496_17
+  - first:
+      213: -6259526739026516494
+    second: npc_crafty_bot__x1_walk_png_1354839496_18
+  - first:
+      213: 5535284565229072950
+    second: npc_crafty_bot__x1_walk_png_1354839496_19
+  - first:
+      213: 5984749244932632611
+    second: npc_crafty_bot__x1_walk_png_1354839496_20
+  - first:
+      213: -8831810975451280944
+    second: npc_crafty_bot__x1_walk_png_1354839496_21
+  - first:
+      213: -4681564553733737659
+    second: npc_crafty_bot__x1_walk_png_1354839496_22
+  - first:
+      213: -2626280148895699775
+    second: npc_crafty_bot__x1_walk_png_1354839496_23
+  - first:
+      213: -4001915747502594019
+    second: npc_crafty_bot__x1_walk_png_1354839496_24
+  - first:
+      213: -8390718545437862105
+    second: npc_crafty_bot__x1_walk_png_1354839496_25
+  - first:
+      213: -6471352521486025769
+    second: npc_crafty_bot__x1_walk_png_1354839496_26
+  - first:
+      213: -1100770405068577435
+    second: npc_crafty_bot__x1_walk_png_1354839496_27
+  - first:
+      213: -2375774376502542166
+    second: npc_crafty_bot__x1_walk_png_1354839496_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 569
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4169ba812102a7f40800000000000000
+      internalID: 5726925138250405396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 573
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd5abc49debfd80800000000000000
+      internalID: -8215711871879750707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 575
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c87042d8c73640800000000000000
+      internalID: 5059733511724386306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 576
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80804f93610f7de70800000000000000
+      internalID: 9140037947023951880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3399c6b97fb7c0800000000000000
+      internalID: -4053387313637278645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 576
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100bc537f1d836d0800000000000000
+      internalID: -3010425491207552994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 435
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078bad1bfbb09f80800000000000000
+      internalID: -8101769042430556408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 434
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cba1e6cdce68b30800000000000000
+      internalID: 4289376126601182232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 433
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92234c1c8aa6e2c10800000000000000
+      internalID: 2030677755028582953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 432
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ad032a2a8cfa80800000000000000
+      internalID: -8431712488763055254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 431
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f530b6fe64f9f500800000000000000
+      internalID: 430643996812916215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 431
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df55f57801e7a7310800000000000000
+      internalID: 1403572843335079421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 291
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58f022f5215ce1c0800000000000000
+      internalID: -4473111106467858341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1c2950559ee2b0800000000000000
+      internalID: -5553337118175256842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 283
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b4001dd4b238b10800000000000000
+      internalID: 1982475874192083839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 284
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ebb0faa6f97050800000000000000
+      internalID: 5798937209259943525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 284
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428292273cdaf230800000000000000
+      internalID: 3673490575435399748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 285
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd8457b14fa1a20800000000000000
+      internalID: 3034005697756454769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e3426891b129a0800000000000000
+      internalID: -6259526739026516494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 145
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6327e212cf741dc40800000000000000
+      internalID: 5535284565229072950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203ffdcab91e0350800000000000000
+      internalID: 5984749244932632611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d984d4f5ba1f6580800000000000000
+      internalID: -8831810975451280944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f3a5a7ddb70fb0800000000000000
+      internalID: -4681564553733737659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 147
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc69648e149d8bd0800000000000000
+      internalID: -2626280148895699775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 7
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e019a4d65678c0800000000000000
+      internalID: -4001915747502594019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d4e850fd2e8b80800000000000000
+      internalID: -8390718545437862105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3f7c1b232136a0800000000000000
+      internalID: -6471352521486025769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ef92162749b0f0800000000000000
+      internalID: -1100770405068577435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crafty_bot__x1_walk_png_1354839496_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0471ebacd870fd0800000000000000
+      internalID: -2375774376502542166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
