@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelLoader : MonoBehaviour
 {
@@ -30,9 +31,8 @@ public class LevelLoader : MonoBehaviour
         SceneManager.LoadScene(_currentSceneIndex + 1);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadLoseScreen()
     {
-        
+        SceneManager.LoadScene("Game Over");
     }
 }

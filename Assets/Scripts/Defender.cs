@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class Defender : MonoBehaviour
 {
-    [SerializeField] private Projectile projectile;
-    [SerializeField] private GameObject projectileSpawner;
-    
-    public void Fire()
+    [SerializeField] private int starCost = 100;
+
+    public int GetStarCost()
     {
-        Instantiate(projectile, projectileSpawner.transform.position, transform.rotation);    return;
+        return starCost;
+    }
+
+    public void AddStars(int amount)
+    {
+        FindObjectOfType<StarsDisplay>().AddStars(amount);
     }
 }
