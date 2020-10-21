@@ -9,5 +9,6 @@ public class DeathCollider : MonoBehaviour
     {
         Debug.Log("Dead");
         // FindObjectOfType<LevelLoader>().LoadLoseScreen();
+        Destroy(other.gameObject);
     }
 }

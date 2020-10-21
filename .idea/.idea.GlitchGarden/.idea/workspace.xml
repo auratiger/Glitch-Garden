@@ -21,38 +21,32 @@
   <component name="ChangeListManager">
     <list default="true" id="2c934412-e139-47be-aefd-57440b0800ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlitchGarden/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Jump fast.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Jump fast.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Walk fast.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Walk fast.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar Hover.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar Hover.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar Hover.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar Hover.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Altar/Altar.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus Attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus Attack.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus Idle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus/Cactus.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Cactus.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Cactus.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Spike.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Spike.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Sun Altar.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deffenders/Sun Altar.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Lizard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Lizard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Camera.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Camera.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Level Loader.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Level Loader.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spawner.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spawner.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox attack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox jump.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox walk.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox/Fox.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard Attack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard/Lizard.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Robot/Robot walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Robot/Robot walk.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Robot/Robot.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Robot/Robot.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/UI/Handle.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/UI/Handle.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/UI/Slider Handle Fox.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/UI/Slider Handle Fox.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Game Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Game Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Robot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Robot.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Defender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Defender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Screen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Screen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeathCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeathCollider.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ShootEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ShootEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Robot/npc_crafty_bot__x1_walk_png_1354839496.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Robot/npc_crafty_bot__x1_walk_png_1354839496.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +57,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Defender.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StarsDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lizard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Defender.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeathCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerPrefsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShootEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lizard.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,20 +79,24 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeffenderSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Defender.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShootEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StarsDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lizard.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Fox.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DeathCollider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarCostDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerPrefsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
       </list>
     </option>
   </component>
@@ -139,7 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603100637872</updated>
       <workItem from="1603100645279" duration="10512000" />
-      <workItem from="1603181408224" duration="13664000" />
+      <workItem from="1603181408224" duration="14284000" />
+      <workItem from="1603274404966" duration="6786000" />
     </task>
     <servers />
   </component>
@@ -168,9 +170,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603186063823" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603185876590">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603286024752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603185876590" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603286024752" />
   </component>
 </project>

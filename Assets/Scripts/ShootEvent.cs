@@ -10,13 +10,26 @@ public class ShootEvent : MonoBehaviour
 
     private Animator _animator;
     private EnemySpawner _myLaneSpawner;
+
+    private GameObject _projectileParent;
+    private const string PROJECTILE_PARENT_NAME = "Projectiles";
     
     private void Start()
     {
         SetLaneSpawner();
         _animator = GetComponent<Animator>();
+        CreateDefenderParent();
     }
 
+    private void CreateDefenderParent()
+    {
+        _projectileParent = GameObject.Find(PROJECTILE_PARENT_NAME);
+        if (!_projectileParent)
+        {
+            _projectileParent = new GameObject(PROJECTILE_PARENT_NAME);
+        }
+    }
+    
     private void Update()
     {
         if (IsEnemyInLane())
@@ -54,6 +67,9 @@ public class ShootEvent : MonoBehaviour
 
     public void Fire()
     {
-        Instantiate(projectile, projectileSpawner.transform.position, transform.rotation);    return;
+        var newProjectile = 
+            Instantiate(projectile, projectileSpawner.transform.position, transform.rotation);
+
+        newProjectile.transform.parent = _projectileParent.transform;
     }
 }

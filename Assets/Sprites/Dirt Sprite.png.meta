@@ -1,0 +1,5996 @@
+fileFormatVersion: 2
+guid: 2287166543a2034499fbcebfd16c452d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2417951081616584595
+    second: Dirt Sprite_0
+  - first:
+      213: 5281666005792769833
+    second: Dirt Sprite_1
+  - first:
+      213: 7549051345557195011
+    second: Dirt Sprite_2
+  - first:
+      213: 6247404998824358049
+    second: Dirt Sprite_3
+  - first:
+      213: -9191240465603086309
+    second: Dirt Sprite_4
+  - first:
+      213: -7922286472141366977
+    second: Dirt Sprite_5
+  - first:
+      213: -1446254229692867370
+    second: Dirt Sprite_6
+  - first:
+      213: 5236025812372949362
+    second: Dirt Sprite_7
+  - first:
+      213: 1079509590004166565
+    second: Dirt Sprite_8
+  - first:
+      213: -3810366798487271367
+    second: Dirt Sprite_9
+  - first:
+      213: -8982654547920185851
+    second: Dirt Sprite_10
+  - first:
+      213: 3134107039011036932
+    second: Dirt Sprite_11
+  - first:
+      213: -6547090365455111322
+    second: Dirt Sprite_12
+  - first:
+      213: 4546647978634582757
+    second: Dirt Sprite_13
+  - first:
+      213: -5873179243229683657
+    second: Dirt Sprite_14
+  - first:
+      213: 7197063884190075846
+    second: Dirt Sprite_15
+  - first:
+      213: 4722251363424245997
+    second: Dirt Sprite_16
+  - first:
+      213: 5398571708826696093
+    second: Dirt Sprite_17
+  - first:
+      213: -1597032843876294509
+    second: Dirt Sprite_18
+  - first:
+      213: 6291767070091330096
+    second: Dirt Sprite_19
+  - first:
+      213: -7789752645008256290
+    second: Dirt Sprite_20
+  - first:
+      213: -1776679814730552735
+    second: Dirt Sprite_21
+  - first:
+      213: 3208217554570655857
+    second: Dirt Sprite_22
+  - first:
+      213: -3482219723354019793
+    second: Dirt Sprite_23
+  - first:
+      213: -842280470722921529
+    second: Dirt Sprite_24
+  - first:
+      213: 3333394349504653796
+    second: Dirt Sprite_25
+  - first:
+      213: -6242415124753914906
+    second: Dirt Sprite_26
+  - first:
+      213: -8777837184098113232
+    second: Dirt Sprite_27
+  - first:
+      213: 9156038970037839560
+    second: Dirt Sprite_28
+  - first:
+      213: -7980289774036158872
+    second: Dirt Sprite_29
+  - first:
+      213: 9102717688486515015
+    second: Dirt Sprite_30
+  - first:
+      213: 4690494098932278227
+    second: Dirt Sprite_31
+  - first:
+      213: 591418419253870077
+    second: Dirt Sprite_32
+  - first:
+      213: 3811278610484491082
+    second: Dirt Sprite_33
+  - first:
+      213: -2647114903421331987
+    second: Dirt Sprite_34
+  - first:
+      213: 7028605093394522346
+    second: Dirt Sprite_35
+  - first:
+      213: 868787039056921165
+    second: Dirt Sprite_36
+  - first:
+      213: 6447897636849135964
+    second: Dirt Sprite_37
+  - first:
+      213: 2251497074097764868
+    second: Dirt Sprite_38
+  - first:
+      213: -9199292033397349665
+    second: Dirt Sprite_39
+  - first:
+      213: 2089978609524470636
+    second: Dirt Sprite_40
+  - first:
+      213: 3217663523653743414
+    second: Dirt Sprite_41
+  - first:
+      213: -510483556790726899
+    second: Dirt Sprite_42
+  - first:
+      213: 7144271627751180075
+    second: Dirt Sprite_43
+  - first:
+      213: -2597453777476170928
+    second: Dirt Sprite_44
+  - first:
+      213: 6232128176892659861
+    second: Dirt Sprite_45
+  - first:
+      213: -7059421586508997386
+    second: Dirt Sprite_46
+  - first:
+      213: 8431321928513688041
+    second: Dirt Sprite_47
+  - first:
+      213: -4941463051093510670
+    second: Dirt Sprite_48
+  - first:
+      213: 1688193265670154117
+    second: Dirt Sprite_49
+  - first:
+      213: 7221688013001904056
+    second: Dirt Sprite_50
+  - first:
+      213: 954573559158034680
+    second: Dirt Sprite_51
+  - first:
+      213: 5813108469388461549
+    second: Dirt Sprite_52
+  - first:
+      213: 2535168402632053923
+    second: Dirt Sprite_53
+  - first:
+      213: 1601106607054536979
+    second: Dirt Sprite_54
+  - first:
+      213: -911688929780090889
+    second: Dirt Sprite_55
+  - first:
+      213: 4861200889209943120
+    second: Dirt Sprite_56
+  - first:
+      213: -494475418826001404
+    second: Dirt Sprite_57
+  - first:
+      213: -5954277508103493101
+    second: Dirt Sprite_58
+  - first:
+      213: -4878846072088345621
+    second: Dirt Sprite_59
+  - first:
+      213: 9167847386503333947
+    second: Dirt Sprite_60
+  - first:
+      213: -7704499515229497687
+    second: Dirt Sprite_61
+  - first:
+      213: -8670042097319015070
+    second: Dirt Sprite_62
+  - first:
+      213: -7021678325757821625
+    second: Dirt Sprite_63
+  - first:
+      213: -6247572573292627963
+    second: Dirt Sprite_64
+  - first:
+      213: 603087464069957090
+    second: Dirt Sprite_65
+  - first:
+      213: 8613386371036071275
+    second: Dirt Sprite_66
+  - first:
+      213: -3685974959837941694
+    second: Dirt Sprite_67
+  - first:
+      213: -8077959440571569228
+    second: Dirt Sprite_68
+  - first:
+      213: -5898958496259443130
+    second: Dirt Sprite_69
+  - first:
+      213: 1531756827644840335
+    second: Dirt Sprite_70
+  - first:
+      213: 547310880749329824
+    second: Dirt Sprite_71
+  - first:
+      213: -5627949681881450617
+    second: Dirt Sprite_72
+  - first:
+      213: 4460237524643781322
+    second: Dirt Sprite_73
+  - first:
+      213: 5893831503082111240
+    second: Dirt Sprite_74
+  - first:
+      213: -113267101553264739
+    second: Dirt Sprite_75
+  - first:
+      213: 5901899536039345209
+    second: Dirt Sprite_76
+  - first:
+      213: 7056126835743928188
+    second: Dirt Sprite_77
+  - first:
+      213: -7894682744807604964
+    second: Dirt Sprite_78
+  - first:
+      213: -907359142811135133
+    second: Dirt Sprite_79
+  - first:
+      213: -5597141348968498092
+    second: Dirt Sprite_80
+  - first:
+      213: 6506517251205326999
+    second: Dirt Sprite_81
+  - first:
+      213: 3768825683429794502
+    second: Dirt Sprite_82
+  - first:
+      213: 7510656927896226098
+    second: Dirt Sprite_83
+  - first:
+      213: -7410320002626775650
+    second: Dirt Sprite_84
+  - first:
+      213: -5368965853320441755
+    second: Dirt Sprite_85
+  - first:
+      213: -6252536603996110327
+    second: Dirt Sprite_86
+  - first:
+      213: 7412905191458174369
+    second: Dirt Sprite_87
+  - first:
+      213: -6965093456269044569
+    second: Dirt Sprite_88
+  - first:
+      213: -316900304377507815
+    second: Dirt Sprite_89
+  - first:
+      213: -7289999384853883028
+    second: Dirt Sprite_90
+  - first:
+      213: -6863907373202012453
+    second: Dirt Sprite_91
+  - first:
+      213: 686142815991125985
+    second: Dirt Sprite_92
+  - first:
+      213: -8684800880753820173
+    second: Dirt Sprite_93
+  - first:
+      213: -1651107296469327738
+    second: Dirt Sprite_94
+  - first:
+      213: -759773759976897004
+    second: Dirt Sprite_95
+  - first:
+      213: 830936246362470099
+    second: Dirt Sprite_96
+  - first:
+      213: 3307140171486324773
+    second: Dirt Sprite_97
+  - first:
+      213: -5386003425126686490
+    second: Dirt Sprite_98
+  - first:
+      213: -8489476349428873599
+    second: Dirt Sprite_99
+  - first:
+      213: -3258871409492452782
+    second: Dirt Sprite_100
+  - first:
+      213: 2566425261771556518
+    second: Dirt Sprite_101
+  - first:
+      213: 5709356260368369112
+    second: Dirt Sprite_102
+  - first:
+      213: -8110090685030421741
+    second: Dirt Sprite_103
+  - first:
+      213: 7508218090872046067
+    second: Dirt Sprite_104
+  - first:
+      213: -6292229389867635246
+    second: Dirt Sprite_105
+  - first:
+      213: 2195581113706268340
+    second: Dirt Sprite_106
+  - first:
+      213: -5687665494717427696
+    second: Dirt Sprite_107
+  - first:
+      213: 7685640438348110242
+    second: Dirt Sprite_108
+  - first:
+      213: -2507488648949407926
+    second: Dirt Sprite_109
+  - first:
+      213: 4747520199965343497
+    second: Dirt Sprite_110
+  - first:
+      213: 8414439243130231092
+    second: Dirt Sprite_111
+  - first:
+      213: -8233401974217380567
+    second: Dirt Sprite_112
+  - first:
+      213: 2209562082548164490
+    second: Dirt Sprite_113
+  - first:
+      213: -3811765626866127422
+    second: Dirt Sprite_114
+  - first:
+      213: 1802536675082215902
+    second: Dirt Sprite_115
+  - first:
+      213: 6968147117454325649
+    second: Dirt Sprite_116
+  - first:
+      213: -97814678803224749
+    second: Dirt Sprite_117
+  - first:
+      213: 6634544361472082540
+    second: Dirt Sprite_118
+  - first:
+      213: 3449112832609055148
+    second: Dirt Sprite_119
+  - first:
+      213: -6722118304421967861
+    second: Dirt Sprite_120
+  - first:
+      213: 5929159933402373949
+    second: Dirt Sprite_121
+  - first:
+      213: 1641829762788690494
+    second: Dirt Sprite_122
+  - first:
+      213: 6523443373874977895
+    second: Dirt Sprite_123
+  - first:
+      213: 2196545869059048107
+    second: Dirt Sprite_124
+  - first:
+      213: -7754849936498993223
+    second: Dirt Sprite_125
+  - first:
+      213: 2855716030002052959
+    second: Dirt Sprite_126
+  - first:
+      213: 609367904732412202
+    second: Dirt Sprite_127
+  - first:
+      213: 3785991464263977660
+    second: Dirt Sprite_128
+  - first:
+      213: -3999529326648461921
+    second: Dirt Sprite_129
+  - first:
+      213: -797643147364355824
+    second: Dirt Sprite_130
+  - first:
+      213: -4331013764963834744
+    second: Dirt Sprite_131
+  - first:
+      213: -3996762710574477250
+    second: Dirt Sprite_132
+  - first:
+      213: -8365715446967818830
+    second: Dirt Sprite_133
+  - first:
+      213: 895834556123288764
+    second: Dirt Sprite_134
+  - first:
+      213: 1494216743993899227
+    second: Dirt Sprite_135
+  - first:
+      213: -4491875003997397674
+    second: Dirt Sprite_136
+  - first:
+      213: 1936126953117271399
+    second: Dirt Sprite_137
+  - first:
+      213: -256474734316392823
+    second: Dirt Sprite_138
+  - first:
+      213: 1253756964161752263
+    second: Dirt Sprite_139
+  - first:
+      213: -3461730514918577895
+    second: Dirt Sprite_140
+  - first:
+      213: -8023073190553240791
+    second: Dirt Sprite_141
+  - first:
+      213: -8223623151521091373
+    second: Dirt Sprite_142
+  - first:
+      213: 5517370994821788365
+    second: Dirt Sprite_143
+  - first:
+      213: -7717771795065198159
+    second: Dirt Sprite_144
+  - first:
+      213: 268095299464172331
+    second: Dirt Sprite_145
+  - first:
+      213: 7133440160470093844
+    second: Dirt Sprite_146
+  - first:
+      213: 7516845494718926397
+    second: Dirt Sprite_147
+  - first:
+      213: -5282251962656500347
+    second: Dirt Sprite_148
+  - first:
+      213: -4182957215156983177
+    second: Dirt Sprite_149
+  - first:
+      213: 2725989195492829545
+    second: Dirt Sprite_150
+  - first:
+      213: 9100333247547320367
+    second: Dirt Sprite_151
+  - first:
+      213: -2680403600935231301
+    second: Dirt Sprite_152
+  - first:
+      213: 5142003310224338721
+    second: Dirt Sprite_153
+  - first:
+      213: -4835086803352333215
+    second: Dirt Sprite_154
+  - first:
+      213: 6159307378196479707
+    second: Dirt Sprite_155
+  - first:
+      213: -7520828313208267322
+    second: Dirt Sprite_156
+  - first:
+      213: 3906222328311937712
+    second: Dirt Sprite_157
+  - first:
+      213: 6888901005721999928
+    second: Dirt Sprite_158
+  - first:
+      213: -8625581831393276977
+    second: Dirt Sprite_159
+  - first:
+      213: -2970106201413337474
+    second: Dirt Sprite_160
+  - first:
+      213: 3270994964602881635
+    second: Dirt Sprite_161
+  - first:
+      213: -8556882086626901931
+    second: Dirt Sprite_162
+  - first:
+      213: -5544714020212428163
+    second: Dirt Sprite_163
+  - first:
+      213: -7868146813934342007
+    second: Dirt Sprite_164
+  - first:
+      213: 5918187340950759845
+    second: Dirt Sprite_165
+  - first:
+      213: 3386323808835913097
+    second: Dirt Sprite_166
+  - first:
+      213: 8648149402143590448
+    second: Dirt Sprite_167
+  - first:
+      213: -7171331159526982754
+    second: Dirt Sprite_168
+  - first:
+      213: -7520843373956673514
+    second: Dirt Sprite_169
+  - first:
+      213: -508860252861402074
+    second: Dirt Sprite_170
+  - first:
+      213: -6088065095982411051
+    second: Dirt Sprite_171
+  - first:
+      213: -6008524741579012312
+    second: Dirt Sprite_172
+  - first:
+      213: -4172534766641694562
+    second: Dirt Sprite_173
+  - first:
+      213: 5551872520083320748
+    second: Dirt Sprite_174
+  - first:
+      213: 5667830330165589362
+    second: Dirt Sprite_175
+  - first:
+      213: -2768813412398409750
+    second: Dirt Sprite_176
+  - first:
+      213: 1492113554252242088
+    second: Dirt Sprite_177
+  - first:
+      213: 7719062775691547705
+    second: Dirt Sprite_178
+  - first:
+      213: -918626500556323683
+    second: Dirt Sprite_179
+  - first:
+      213: -950614021084142163
+    second: Dirt Sprite_180
+  - first:
+      213: -1428636015613413160
+    second: Dirt Sprite_181
+  - first:
+      213: 5707761799509605711
+    second: Dirt Sprite_182
+  - first:
+      213: -5687492518467274047
+    second: Dirt Sprite_183
+  - first:
+      213: 9189340235809213747
+    second: Dirt Sprite_184
+  - first:
+      213: 1942770217483507604
+    second: Dirt Sprite_185
+  - first:
+      213: 5417495459513843764
+    second: Dirt Sprite_186
+  - first:
+      213: -4995113513490706597
+    second: Dirt Sprite_187
+  - first:
+      213: 3677548696176549304
+    second: Dirt Sprite_188
+  - first:
+      213: 5329486425912032227
+    second: Dirt Sprite_189
+  - first:
+      213: 6777434774225009276
+    second: Dirt Sprite_190
+  - first:
+      213: 7103764148907383880
+    second: Dirt Sprite_191
+  - first:
+      213: -3072108331065301257
+    second: Dirt Sprite_192
+  - first:
+      213: -6109560545072203308
+    second: Dirt Sprite_193
+  - first:
+      213: 1021534770828814572
+    second: Dirt Sprite_194
+  - first:
+      213: -7909131872821538709
+    second: Dirt Sprite_195
+  - first:
+      213: -7899028036407825035
+    second: Dirt Sprite_196
+  - first:
+      213: -4062896237251101093
+    second: Dirt Sprite_197
+  - first:
+      213: 450305411251845797
+    second: Dirt Sprite_198
+  - first:
+      213: 8952980456211370055
+    second: Dirt Sprite_199
+  - first:
+      213: 7509754829308535281
+    second: Dirt Sprite_200
+  - first:
+      213: -8902581848894490374
+    second: Dirt Sprite_201
+  - first:
+      213: -4175723219121714541
+    second: Dirt Sprite_202
+  - first:
+      213: 6294988972178286967
+    second: Dirt Sprite_203
+  - first:
+      213: 2090881035237894676
+    second: Dirt Sprite_204
+  - first:
+      213: -6901825152756714810
+    second: Dirt Sprite_205
+  - first:
+      213: 2513534478168110855
+    second: Dirt Sprite_206
+  - first:
+      213: 4294843279214641916
+    second: Dirt Sprite_207
+  - first:
+      213: -2156096928601149411
+    second: Dirt Sprite_208
+  - first:
+      213: -6264290836150617403
+    second: Dirt Sprite_209
+  - first:
+      213: 5503083928165145717
+    second: Dirt Sprite_210
+  - first:
+      213: 8945599804390779223
+    second: Dirt Sprite_211
+  - first:
+      213: -2754929055967477546
+    second: Dirt Sprite_212
+  - first:
+      213: -5805964272945893609
+    second: Dirt Sprite_213
+  - first:
+      213: 3318904639314494094
+    second: Dirt Sprite_214
+  - first:
+      213: -3515147077534867311
+    second: Dirt Sprite_215
+  - first:
+      213: 5554276798301356623
+    second: Dirt Sprite_216
+  - first:
+      213: 7953638453733026846
+    second: Dirt Sprite_217
+  - first:
+      213: 3269032081504969243
+    second: Dirt Sprite_218
+  - first:
+      213: 3983748239502904177
+    second: Dirt Sprite_219
+  - first:
+      213: -1893035603349208216
+    second: Dirt Sprite_220
+  - first:
+      213: 2227651923424837173
+    second: Dirt Sprite_221
+  - first:
+      213: 147629683204413216
+    second: Dirt Sprite_222
+  - first:
+      213: 4984082618875920436
+    second: Dirt Sprite_223
+  - first:
+      213: 1000216295528962879
+    second: Dirt Sprite_224
+  - first:
+      213: -78355632128057503
+    second: Dirt Sprite_225
+  - first:
+      213: -297440231224423340
+    second: Dirt Sprite_226
+  - first:
+      213: 5383856535934184019
+    second: Dirt Sprite_227
+  - first:
+      213: -6250792619431367163
+    second: Dirt Sprite_228
+  - first:
+      213: 6063011484919422648
+    second: Dirt Sprite_229
+  - first:
+      213: 3610823077201353742
+    second: Dirt Sprite_230
+  - first:
+      213: -1231075539237735867
+    second: Dirt Sprite_231
+  - first:
+      213: 4166930067954941295
+    second: Dirt Sprite_232
+  - first:
+      213: 1198276459673389767
+    second: Dirt Sprite_233
+  - first:
+      213: -3451243976198429777
+    second: Dirt Sprite_234
+  - first:
+      213: 1636892038595848750
+    second: Dirt Sprite_235
+  - first:
+      213: -274801235679632514
+    second: Dirt Sprite_236
+  - first:
+      213: -8755485480213712987
+    second: Dirt Sprite_237
+  - first:
+      213: -5784583098749373848
+    second: Dirt Sprite_238
+  - first:
+      213: -2097377065157389716
+    second: Dirt Sprite_239
+  - first:
+      213: 4763754025488122362
+    second: Dirt Sprite_240
+  - first:
+      213: -5465340550753417870
+    second: Dirt Sprite_241
+  - first:
+      213: -8419605763408575201
+    second: Dirt Sprite_242
+  - first:
+      213: 8669975384641916901
+    second: Dirt Sprite_243
+  - first:
+      213: 2297829686259479393
+    second: Dirt Sprite_244
+  - first:
+      213: -2287030477116313760
+    second: Dirt Sprite_245
+  - first:
+      213: -4241313115134151865
+    second: Dirt Sprite_246
+  - first:
+      213: 3915714300381570304
+    second: Dirt Sprite_247
+  - first:
+      213: 1043756479020093887
+    second: Dirt Sprite_248
+  - first:
+      213: -4631132693575969930
+    second: Dirt Sprite_249
+  - first:
+      213: 9019079615411548711
+    second: Dirt Sprite_250
+  - first:
+      213: 2578728152012935894
+    second: Dirt Sprite_251
+  - first:
+      213: -741149523009240670
+    second: Dirt Sprite_252
+  - first:
+      213: -3438152437550012762
+    second: Dirt Sprite_253
+  - first:
+      213: 5796814952396496589
+    second: Dirt Sprite_254
+  - first:
+      213: 7805990819637631157
+    second: Dirt Sprite_255
+  - first:
+      213: -8783790112388754512
+    second: Dirt Sprite_256
+  - first:
+      213: 5587019618665853213
+    second: Dirt Sprite_257
+  - first:
+      213: -5850477038264804690
+    second: Dirt Sprite_258
+  - first:
+      213: 7029040219773937936
+    second: Dirt Sprite_259
+  - first:
+      213: 82734698627041317
+    second: Dirt Sprite_260
+  - first:
+      213: -6133452096565646355
+    second: Dirt Sprite_261
+  - first:
+      213: 1287173585044197779
+    second: Dirt Sprite_262
+  - first:
+      213: 4821689151795940875
+    second: Dirt Sprite_263
+  - first:
+      213: -2014053781110329733
+    second: Dirt Sprite_264
+  - first:
+      213: 5680175057713848519
+    second: Dirt Sprite_265
+  - first:
+      213: -816832768207152859
+    second: Dirt Sprite_266
+  - first:
+      213: 8010307708040533139
+    second: Dirt Sprite_267
+  - first:
+      213: -6325335044583641162
+    second: Dirt Sprite_268
+  - first:
+      213: 2241749742076136881
+    second: Dirt Sprite_269
+  - first:
+      213: 5689736710177392716
+    second: Dirt Sprite_270
+  - first:
+      213: -2817049498508179410
+    second: Dirt Sprite_271
+  - first:
+      213: -2236027086693892454
+    second: Dirt Sprite_272
+  - first:
+      213: -8312384508636534209
+    second: Dirt Sprite_273
+  - first:
+      213: -401268914106432643
+    second: Dirt Sprite_274
+  - first:
+      213: 8112985339236319904
+    second: Dirt Sprite_275
+  - first:
+      213: -4953966348130441353
+    second: Dirt Sprite_276
+  - first:
+      213: 7968336282613958600
+    second: Dirt Sprite_277
+  - first:
+      213: -120402424244000334
+    second: Dirt Sprite_278
+  - first:
+      213: 6645970830432230392
+    second: Dirt Sprite_279
+  - first:
+      213: 7780467657937184391
+    second: Dirt Sprite_280
+  - first:
+      213: 9128613259882263004
+    second: Dirt Sprite_281
+  - first:
+      213: -4903207477476055277
+    second: Dirt Sprite_282
+  - first:
+      213: -8914482867719744875
+    second: Dirt Sprite_283
+  - first:
+      213: -9158921379440514045
+    second: Dirt Sprite_284
+  - first:
+      213: 3989665311625340419
+    second: Dirt Sprite_285
+  - first:
+      213: -4945090181978279075
+    second: Dirt Sprite_286
+  - first:
+      213: 5310575362705292787
+    second: Dirt Sprite_287
+  - first:
+      213: -2648710873575954964
+    second: Dirt Sprite_288
+  - first:
+      213: -3552339446450299008
+    second: Dirt Sprite_289
+  - first:
+      213: 8078393848221101930
+    second: Dirt Sprite_290
+  - first:
+      213: -1346010796488065001
+    second: Dirt Sprite_291
+  - first:
+      213: 3119233122848283536
+    second: Dirt Sprite_292
+  - first:
+      213: -589701372879133245
+    second: Dirt Sprite_293
+  - first:
+      213: -8029460456020207937
+    second: Dirt Sprite_294
+  - first:
+      213: 825570049067085555
+    second: Dirt Sprite_295
+  - first:
+      213: 3258285240905249319
+    second: Dirt Sprite_296
+  - first:
+      213: 5692425619907217139
+    second: Dirt Sprite_297
+  - first:
+      213: -2538479743877653338
+    second: Dirt Sprite_298
+  - first:
+      213: 6097373129212063219
+    second: Dirt Sprite_299
+  - first:
+      213: -1738064576289954418
+    second: Dirt Sprite_300
+  - first:
+      213: 9054485552353537441
+    second: Dirt Sprite_301
+  - first:
+      213: 3830803868822671065
+    second: Dirt Sprite_302
+  - first:
+      213: -3436557346317350871
+    second: Dirt Sprite_303
+  - first:
+      213: -8963066998585428560
+    second: Dirt Sprite_304
+  - first:
+      213: -2108288580339661945
+    second: Dirt Sprite_305
+  - first:
+      213: 7663010181414446567
+    second: Dirt Sprite_306
+  - first:
+      213: -7709912441990680298
+    second: Dirt Sprite_307
+  - first:
+      213: -6235451464866766629
+    second: Dirt Sprite_308
+  - first:
+      213: 3262566850819707323
+    second: Dirt Sprite_309
+  - first:
+      213: 1023286430641789603
+    second: Dirt Sprite_310
+  - first:
+      213: -4393660511769117704
+    second: Dirt Sprite_311
+  - first:
+      213: -5556364307590043492
+    second: Dirt Sprite_312
+  - first:
+      213: -7474559447158199340
+    second: Dirt Sprite_313
+  - first:
+      213: 6713844608250945406
+    second: Dirt Sprite_314
+  - first:
+      213: -3643870763347618173
+    second: Dirt Sprite_315
+  - first:
+      213: -7363035365442104934
+    second: Dirt Sprite_316
+  - first:
+      213: 4262532005442491914
+    second: Dirt Sprite_317
+  - first:
+      213: -4452181902357080485
+    second: Dirt Sprite_318
+  - first:
+      213: -4399884530879290246
+    second: Dirt Sprite_319
+  - first:
+      213: 7920485554861683728
+    second: Dirt Sprite_320
+  - first:
+      213: -4877338726648518616
+    second: Dirt Sprite_321
+  - first:
+      213: 7837393672396167811
+    second: Dirt Sprite_322
+  - first:
+      213: 7263252651544539366
+    second: Dirt Sprite_323
+  - first:
+      213: 6910702081094504096
+    second: Dirt Sprite_324
+  - first:
+      213: -1749693405012000819
+    second: Dirt Sprite_325
+  - first:
+      213: -3831834079912277475
+    second: Dirt Sprite_326
+  - first:
+      213: 382142450277662891
+    second: Dirt Sprite_327
+  - first:
+      213: 804472407257539492
+    second: Dirt Sprite_328
+  - first:
+      213: -484336178586092854
+    second: Dirt Sprite_329
+  - first:
+      213: 3554985544243210778
+    second: Dirt Sprite_330
+  - first:
+      213: -3518178050862694323
+    second: Dirt Sprite_331
+  - first:
+      213: 2419863010337357835
+    second: Dirt Sprite_332
+  - first:
+      213: 4814495683028893952
+    second: Dirt Sprite_333
+  - first:
+      213: 105984549392130671
+    second: Dirt Sprite_334
+  - first:
+      213: -1471405437083134118
+    second: Dirt Sprite_335
+  - first:
+      213: 8727376501719297117
+    second: Dirt Sprite_336
+  - first:
+      213: -8613441782158547731
+    second: Dirt Sprite_337
+  - first:
+      213: 9117008539959577388
+    second: Dirt Sprite_338
+  - first:
+      213: -2149344132544236315
+    second: Dirt Sprite_339
+  - first:
+      213: -1556003867815434135
+    second: Dirt Sprite_340
+  - first:
+      213: 8240460743376144065
+    second: Dirt Sprite_341
+  - first:
+      213: -5215101237028652702
+    second: Dirt Sprite_342
+  - first:
+      213: -3135121980337275306
+    second: Dirt Sprite_343
+  - first:
+      213: 5802616711234482665
+    second: Dirt Sprite_344
+  - first:
+      213: -9092810886467331854
+    second: Dirt Sprite_345
+  - first:
+      213: 6565504874886854458
+    second: Dirt Sprite_346
+  - first:
+      213: -4702842154559539876
+    second: Dirt Sprite_347
+  - first:
+      213: 486173587774366409
+    second: Dirt Sprite_348
+  - first:
+      213: 3487915417698277436
+    second: Dirt Sprite_349
+  - first:
+      213: 1065926935939698933
+    second: Dirt Sprite_350
+  - first:
+      213: -7206117738910499331
+    second: Dirt Sprite_351
+  - first:
+      213: -6576042011844795570
+    second: Dirt Sprite_352
+  - first:
+      213: 3191166317236063669
+    second: Dirt Sprite_353
+  - first:
+      213: 2768411436388484628
+    second: Dirt Sprite_354
+  - first:
+      213: 364739133573910017
+    second: Dirt Sprite_355
+  - first:
+      213: 4321375133322659267
+    second: Dirt Sprite_356
+  - first:
+      213: 6496050758970844474
+    second: Dirt Sprite_357
+  - first:
+      213: 5516991319798890120
+    second: Dirt Sprite_358
+  - first:
+      213: -1527773261453862104
+    second: Dirt Sprite_359
+  - first:
+      213: -7783700109314473938
+    second: Dirt Sprite_360
+  - first:
+      213: 8260259424758615982
+    second: Dirt Sprite_361
+  - first:
+      213: 4935075323037382819
+    second: Dirt Sprite_362
+  - first:
+      213: 1184537541949349548
+    second: Dirt Sprite_363
+  - first:
+      213: -8259074057466347847
+    second: Dirt Sprite_364
+  - first:
+      213: 2574100326909567731
+    second: Dirt Sprite_365
+  - first:
+      213: 5769552079858525193
+    second: Dirt Sprite_366
+  - first:
+      213: -6587514792085388672
+    second: Dirt Sprite_367
+  - first:
+      213: -370844376123812013
+    second: Dirt Sprite_368
+  - first:
+      213: -3582309844163263333
+    second: Dirt Sprite_369
+  - first:
+      213: -9060947287052465573
+    second: Dirt Sprite_370
+  - first:
+      213: -7447773772425926040
+    second: Dirt Sprite_371
+  - first:
+      213: 4169906405602397242
+    second: Dirt Sprite_372
+  - first:
+      213: 1725171879210607341
+    second: Dirt Sprite_373
+  - first:
+      213: 4711404418323622190
+    second: Dirt Sprite_374
+  - first:
+      213: 7103674809955983988
+    second: Dirt Sprite_375
+  - first:
+      213: 2748525035564086227
+    second: Dirt Sprite_376
+  - first:
+      213: -6306022107002516678
+    second: Dirt Sprite_377
+  - first:
+      213: 3939529900827774524
+    second: Dirt Sprite_378
+  - first:
+      213: -1799712889436746821
+    second: Dirt Sprite_379
+  - first:
+      213: 1369440225500627034
+    second: Dirt Sprite_380
+  - first:
+      213: -5318994138852186735
+    second: Dirt Sprite_381
+  - first:
+      213: -631095217401000993
+    second: Dirt Sprite_382
+  - first:
+      213: -294048637591486778
+    second: Dirt Sprite_383
+  - first:
+      213: 7176018270168741148
+    second: Dirt Sprite_384
+  - first:
+      213: 5689992391838061183
+    second: Dirt Sprite_385
+  - first:
+      213: -2789071558336935715
+    second: Dirt Sprite_386
+  - first:
+      213: -2728311474817320468
+    second: Dirt Sprite_387
+  - first:
+      213: -1381097506101942818
+    second: Dirt Sprite_388
+  - first:
+      213: 6254971678421498753
+    second: Dirt Sprite_389
+  - first:
+      213: -5990344062404898770
+    second: Dirt Sprite_390
+  - first:
+      213: -8792211337668301799
+    second: Dirt Sprite_391
+  - first:
+      213: -2717591120837920161
+    second: Dirt Sprite_392
+  - first:
+      213: 3016643124312462437
+    second: Dirt Sprite_393
+  - first:
+      213: 1160006750835588287
+    second: Dirt Sprite_394
+  - first:
+      213: 5140251563067650612
+    second: Dirt Sprite_395
+  - first:
+      213: -6190616418863868501
+    second: Dirt Sprite_396
+  - first:
+      213: -5627678224289282188
+    second: Dirt Sprite_397
+  - first:
+      213: -8275023795941865066
+    second: Dirt Sprite_398
+  - first:
+      213: 5968875323360824994
+    second: Dirt Sprite_399
+  - first:
+      213: 8797278431615040110
+    second: Dirt Sprite_400
+  - first:
+      213: 224237013045872841
+    second: Dirt Sprite_401
+  - first:
+      213: -1259154479322905476
+    second: Dirt Sprite_402
+  - first:
+      213: -15448124049792272
+    second: Dirt Sprite_403
+  - first:
+      213: 375003174761562775
+    second: Dirt Sprite_404
+  - first:
+      213: -7041660631925621436
+    second: Dirt Sprite_405
+  - first:
+      213: 4542426162963551898
+    second: Dirt Sprite_406
+  - first:
+      213: 7933998937654677707
+    second: Dirt Sprite_407
+  - first:
+      213: 5079197645945384578
+    second: Dirt Sprite_408
+  - first:
+      213: -1608358033145683691
+    second: Dirt Sprite_409
+  - first:
+      213: 1380758840334863780
+    second: Dirt Sprite_410
+  - first:
+      213: -4113042374530469269
+    second: Dirt Sprite_411
+  - first:
+      213: -6770462154527969927
+    second: Dirt Sprite_412
+  - first:
+      213: -9139409100150756956
+    second: Dirt Sprite_413
+  - first:
+      213: -7829005380511008467
+    second: Dirt Sprite_414
+  - first:
+      213: -2653131720523980792
+    second: Dirt Sprite_415
+  - first:
+      213: 7912490620516905147
+    second: Dirt Sprite_416
+  - first:
+      213: -6334270408896614456
+    second: Dirt Sprite_417
+  - first:
+      213: -6532714177237121693
+    second: Dirt Sprite_418
+  - first:
+      213: -1483366032221544934
+    second: Dirt Sprite_419
+  - first:
+      213: -3693037809984449196
+    second: Dirt Sprite_420
+  - first:
+      213: 1762762679814339042
+    second: Dirt Sprite_421
+  - first:
+      213: 6519331120948495416
+    second: Dirt Sprite_422
+  - first:
+      213: 501802372338623316
+    second: Dirt Sprite_423
+  - first:
+      213: 354316028175788913
+    second: Dirt Sprite_424
+  - first:
+      213: 1206924159328456500
+    second: Dirt Sprite_425
+  - first:
+      213: 4681666353322848202
+    second: Dirt Sprite_426
+  - first:
+      213: 2176949164193533064
+    second: Dirt Sprite_427
+  - first:
+      213: 7501108951727750610
+    second: Dirt Sprite_428
+  - first:
+      213: 6982975895371882024
+    second: Dirt Sprite_429
+  - first:
+      213: -3396656664279458581
+    second: Dirt Sprite_430
+  - first:
+      213: -5111085214102234860
+    second: Dirt Sprite_431
+  - first:
+      213: 5889058542403622397
+    second: Dirt Sprite_432
+  - first:
+      213: -4694886965171084012
+    second: Dirt Sprite_433
+  - first:
+      213: 5412751796812943834
+    second: Dirt Sprite_434
+  - first:
+      213: -8652302530744468991
+    second: Dirt Sprite_435
+  - first:
+      213: 3954459053659412902
+    second: Dirt Sprite_436
+  - first:
+      213: 4532060981934837003
+    second: Dirt Sprite_437
+  - first:
+      213: 9156938251873517134
+    second: Dirt Sprite_438
+  - first:
+      213: -1063176976346472619
+    second: Dirt Sprite_439
+  - first:
+      213: -34095624263677659
+    second: Dirt Sprite_440
+  - first:
+      213: 3724533104640057060
+    second: Dirt Sprite_441
+  - first:
+      213: -195422920489261206
+    second: Dirt Sprite_442
+  - first:
+      213: -5676221953239391013
+    second: Dirt Sprite_443
+  - first:
+      213: 89894606996562487
+    second: Dirt Sprite_444
+  - first:
+      213: 1167582165420060377
+    second: Dirt Sprite_445
+  - first:
+      213: 8953043197975454158
+    second: Dirt Sprite_446
+  - first:
+      213: 1447025943512638343
+    second: Dirt Sprite_447
+  - first:
+      213: 5906940627014824393
+    second: Dirt Sprite_448
+  - first:
+      213: 3633260815999234025
+    second: Dirt Sprite_449
+  - first:
+      213: 624519502059672988
+    second: Dirt Sprite_450
+  - first:
+      213: 6212093335750468380
+    second: Dirt Sprite_451
+  - first:
+      213: 7797491520134975105
+    second: Dirt Sprite_452
+  - first:
+      213: -1104169465859156897
+    second: Dirt Sprite_453
+  - first:
+      213: 6088376347353775129
+    second: Dirt Sprite_454
+  - first:
+      213: 5741665674267103466
+    second: Dirt Sprite_455
+  - first:
+      213: 4560835003132736399
+    second: Dirt Sprite_456
+  - first:
+      213: 4096322739500266691
+    second: Dirt Sprite_457
+  - first:
+      213: -3916297336185202030
+    second: Dirt Sprite_458
+  - first:
+      213: -1703810436512687635
+    second: Dirt Sprite_459
+  - first:
+      213: 3753983775438510449
+    second: Dirt Sprite_460
+  - first:
+      213: 6451324227401124219
+    second: Dirt Sprite_461
+  - first:
+      213: 1836514317176755918
+    second: Dirt Sprite_462
+  - first:
+      213: -5990389619050627795
+    second: Dirt Sprite_463
+  - first:
+      213: 980004024732306992
+    second: Dirt Sprite_464
+  - first:
+      213: 9134499325337787271
+    second: Dirt Sprite_465
+  - first:
+      213: -6652072977810824782
+    second: Dirt Sprite_466
+  - first:
+      213: 2113349208739376844
+    second: Dirt Sprite_467
+  - first:
+      213: 2271202311045802109
+    second: Dirt Sprite_468
+  - first:
+      213: -5826849878703070252
+    second: Dirt Sprite_469
+  - first:
+      213: -6871560967625697658
+    second: Dirt Sprite_470
+  - first:
+      213: -1804658391704564416
+    second: Dirt Sprite_471
+  - first:
+      213: -8290461066336074443
+    second: Dirt Sprite_472
+  - first:
+      213: 1655556175423118474
+    second: Dirt Sprite_473
+  - first:
+      213: -9088102494114777066
+    second: Dirt Sprite_474
+  - first:
+      213: -5328801173512138902
+    second: Dirt Sprite_475
+  - first:
+      213: 6997023715349527388
+    second: Dirt Sprite_476
+  - first:
+      213: 4286988644257963097
+    second: Dirt Sprite_477
+  - first:
+      213: 4775166064218875312
+    second: Dirt Sprite_478
+  - first:
+      213: -5421633151878543299
+    second: Dirt Sprite_479
+  - first:
+      213: -1394375190881977921
+    second: Dirt Sprite_480
+  - first:
+      213: 4411232945779502224
+    second: Dirt Sprite_481
+  - first:
+      213: -1603936510016762349
+    second: Dirt Sprite_482
+  - first:
+      213: 6593662936124210397
+    second: Dirt Sprite_483
+  - first:
+      213: 468066561796587953
+    second: Dirt Sprite_484
+  - first:
+      213: 3217645845222406432
+    second: Dirt Sprite_485
+  - first:
+      213: -8072962837826423376
+    second: Dirt Sprite_486
+  - first:
+      213: 2517250059768922356
+    second: Dirt Sprite_487
+  - first:
+      213: 5093015967927373644
+    second: Dirt Sprite_488
+  - first:
+      213: 7236877503157035898
+    second: Dirt Sprite_489
+  - first:
+      213: 8673812855081541784
+    second: Dirt Sprite_490
+  - first:
+      213: 6663604649278800712
+    second: Dirt Sprite_491
+  - first:
+      213: -3255213223540952515
+    second: Dirt Sprite_492
+  - first:
+      213: -7448195041155079553
+    second: Dirt Sprite_493
+  - first:
+      213: 6125404387760840834
+    second: Dirt Sprite_494
+  - first:
+      213: 1210986074676441282
+    second: Dirt Sprite_495
+  - first:
+      213: -7438807570753556575
+    second: Dirt Sprite_496
+  - first:
+      213: -1392014105832579390
+    second: Dirt Sprite_497
+  - first:
+      213: -3307985097530510726
+    second: Dirt Sprite_498
+  - first:
+      213: 9041922422333238083
+    second: Dirt Sprite_499
+  - first:
+      213: 3176683262903866845
+    second: Dirt Sprite_500
+  - first:
+      213: -2307678320111746890
+    second: Dirt Sprite_501
+  - first:
+      213: 2295545916018152128
+    second: Dirt Sprite_502
+  - first:
+      213: 945949642573399590
+    second: Dirt Sprite_503
+  - first:
+      213: -6616601427105855034
+    second: Dirt Sprite_504
+  - first:
+      213: -4189230129411720468
+    second: Dirt Sprite_505
+  - first:
+      213: 3351237656921561615
+    second: Dirt Sprite_506
+  - first:
+      213: -5550327746751362156
+    second: Dirt Sprite_507
+  - first:
+      213: 9009601297808766588
+    second: Dirt Sprite_508
+  - first:
+      213: -9144131559122959621
+    second: Dirt Sprite_509
+  - first:
+      213: -7641906736340259286
+    second: Dirt Sprite_510
+  - first:
+      213: 797089452046018715
+    second: Dirt Sprite_511
+  - first:
+      213: 504125239173377540
+    second: Dirt Sprite_512
+  - first:
+      213: 5876318283188116234
+    second: Dirt Sprite_513
+  - first:
+      213: -7775976705018154480
+    second: Dirt Sprite_514
+  - first:
+      213: 7504463370945760625
+    second: Dirt Sprite_515
+  - first:
+      213: -6497263313656053850
+    second: Dirt Sprite_516
+  - first:
+      213: -43978896669698389
+    second: Dirt Sprite_517
+  - first:
+      213: 7202469945046044742
+    second: Dirt Sprite_518
+  - first:
+      213: -9140252713869319459
+    second: Dirt Sprite_519
+  - first:
+      213: -2344912422985404581
+    second: Dirt Sprite_520
+  - first:
+      213: -24459436877614226
+    second: Dirt Sprite_521
+  - first:
+      213: 144570989258320087
+    second: Dirt Sprite_522
+  - first:
+      213: 1459122467692243356
+    second: Dirt Sprite_523
+  - first:
+      213: -5059889728674192107
+    second: Dirt Sprite_524
+  - first:
+      213: 6878167261770205842
+    second: Dirt Sprite_525
+  - first:
+      213: -2963812593908075259
+    second: Dirt Sprite_526
+  - first:
+      213: -8437602373358995633
+    second: Dirt Sprite_527
+  - first:
+      213: -1796521518501422214
+    second: Dirt Sprite_528
+  - first:
+      213: 8647697368086880075
+    second: Dirt Sprite_529
+  - first:
+      213: 5900981510141878936
+    second: Dirt Sprite_530
+  - first:
+      213: 5613279016034208605
+    second: Dirt Sprite_531
+  - first:
+      213: 9037797905700131455
+    second: Dirt Sprite_532
+  - first:
+      213: 7321059068708179917
+    second: Dirt Sprite_533
+  - first:
+      213: -1054533904276413293
+    second: Dirt Sprite_534
+  - first:
+      213: -1882391882727954948
+    second: Dirt Sprite_535
+  - first:
+      213: 6435938050877618838
+    second: Dirt Sprite_536
+  - first:
+      213: 9096699117631351936
+    second: Dirt Sprite_537
+  - first:
+      213: -6368744495692607333
+    second: Dirt Sprite_538
+  - first:
+      213: -640100112657434818
+    second: Dirt Sprite_539
+  - first:
+      213: -4231978908919323364
+    second: Dirt Sprite_540
+  - first:
+      213: -6382539647626119332
+    second: Dirt Sprite_541
+  - first:
+      213: 62230807022339158
+    second: Dirt Sprite_542
+  - first:
+      213: 9018469201844131722
+    second: Dirt Sprite_543
+  - first:
+      213: -7300203962147788970
+    second: Dirt Sprite_544
+  - first:
+      213: -8739215441779208377
+    second: Dirt Sprite_545
+  - first:
+      213: 2412593307357091247
+    second: Dirt Sprite_546
+  - first:
+      213: 4560987512057614106
+    second: Dirt Sprite_547
+  - first:
+      213: 706995558431366132
+    second: Dirt Sprite_548
+  - first:
+      213: 7574945411841337298
+    second: Dirt Sprite_549
+  - first:
+      213: 7213252649701959246
+    second: Dirt Sprite_550
+  - first:
+      213: -6439979956884292122
+    second: Dirt Sprite_551
+  - first:
+      213: -2898171196671087935
+    second: Dirt Sprite_552
+  - first:
+      213: 6878135009898804538
+    second: Dirt Sprite_553
+  - first:
+      213: 8862206655774695985
+    second: Dirt Sprite_554
+  - first:
+      213: 7358397770320366282
+    second: Dirt Sprite_555
+  - first:
+      213: 1131854913273956020
+    second: Dirt Sprite_556
+  - first:
+      213: -1566724246640261133
+    second: Dirt Sprite_557
+  - first:
+      213: -3689251443683390992
+    second: Dirt Sprite_558
+  - first:
+      213: -9124484715845668147
+    second: Dirt Sprite_559
+  - first:
+      213: 6179839065574262547
+    second: Dirt Sprite_560
+  - first:
+      213: 7951914228834204075
+    second: Dirt Sprite_561
+  - first:
+      213: 6669771751100488697
+    second: Dirt Sprite_562
+  - first:
+      213: -5069267465213748337
+    second: Dirt Sprite_563
+  - first:
+      213: -7399644097500944548
+    second: Dirt Sprite_564
+  - first:
+      213: -2239135351216599858
+    second: Dirt Sprite_565
+  - first:
+      213: 1607634591960532331
+    second: Dirt Sprite_566
+  - first:
+      213: -8227874581837430302
+    second: Dirt Sprite_567
+  - first:
+      213: 954358122662104795
+    second: Dirt Sprite_568
+  - first:
+      213: 2387859639044348253
+    second: Dirt Sprite_569
+  - first:
+      213: 550974809839718514
+    second: Dirt Sprite_570
+  - first:
+      213: -5630441581904122515
+    second: Dirt Sprite_571
+  - first:
+      213: -5878689031050301512
+    second: Dirt Sprite_572
+  - first:
+      213: -2048774356709386693
+    second: Dirt Sprite_573
+  - first:
+      213: 4008371307322030741
+    second: Dirt Sprite_574
+  - first:
+      213: 8591608392175047258
+    second: Dirt Sprite_575
+  - first:
+      213: 5588891308878862774
+    second: Dirt Sprite_576
+  - first:
+      213: -7729422886949934986
+    second: Dirt Sprite_577
+  - first:
+      213: 4021760133107025464
+    second: Dirt Sprite_578
+  - first:
+      213: -2179967294175368062
+    second: Dirt Sprite_579
+  - first:
+      213: 7237059015405236586
+    second: Dirt Sprite_580
+  - first:
+      213: -495965897391184850
+    second: Dirt Sprite_581
+  - first:
+      213: -3844609554209450754
+    second: Dirt Sprite_582
+  - first:
+      213: 2961236531017421302
+    second: Dirt Sprite_583
+  - first:
+      213: 2681040596826636860
+    second: Dirt Sprite_584
+  - first:
+      213: -6809259980763378559
+    second: Dirt Sprite_585
+  - first:
+      213: -4684436043182661324
+    second: Dirt Sprite_586
+  - first:
+      213: 3064441548436776748
+    second: Dirt Sprite_587
+  - first:
+      213: -5499572930706218160
+    second: Dirt Sprite_588
+  - first:
+      213: 6025080577271009595
+    second: Dirt Sprite_589
+  - first:
+      213: -5235053275860638341
+    second: Dirt Sprite_590
+  - first:
+      213: -7927487035480334040
+    second: Dirt Sprite_591
+  - first:
+      213: -5968306206204196446
+    second: Dirt Sprite_592
+  - first:
+      213: -7667713491287907959
+    second: Dirt Sprite_593
+  - first:
+      213: 472647359286937810
+    second: Dirt Sprite_594
+  - first:
+      213: 8963641086535077489
+    second: Dirt Sprite_595
+  - first:
+      213: -6180459795485158970
+    second: Dirt Sprite_596
+  - first:
+      213: 6518404779778052184
+    second: Dirt Sprite_597
+  - first:
+      213: 6769536013709773331
+    second: Dirt Sprite_598
+  - first:
+      213: 173509183311244937
+    second: Dirt Sprite_599
+  - first:
+      213: 8038951866924627475
+    second: Dirt Sprite_600
+  - first:
+      213: -265858281400343140
+    second: Dirt Sprite_601
+  - first:
+      213: -5470177286128731444
+    second: Dirt Sprite_602
+  - first:
+      213: 5907317742868646898
+    second: Dirt Sprite_603
+  - first:
+      213: -5963179824530640450
+    second: Dirt Sprite_604
+  - first:
+      213: -1041202410631864912
+    second: Dirt Sprite_605
+  - first:
+      213: -3920139838213456441
+    second: Dirt Sprite_606
+  - first:
+      213: 7058938783639955073
+    second: Dirt Sprite_607
+  - first:
+      213: 911461735240364154
+    second: Dirt Sprite_608
+  - first:
+      213: -5588002982952742052
+    second: Dirt Sprite_609
+  - first:
+      213: -3232956818324330412
+    second: Dirt Sprite_610
+  - first:
+      213: 684820867546090557
+    second: Dirt Sprite_611
+  - first:
+      213: 1946400729647334047
+    second: Dirt Sprite_612
+  - first:
+      213: -5974641520712459269
+    second: Dirt Sprite_613
+  - first:
+      213: -5422019768542400422
+    second: Dirt Sprite_614
+  - first:
+      213: 1299744511593927454
+    second: Dirt Sprite_615
+  - first:
+      213: -914128235636379566
+    second: Dirt Sprite_616
+  - first:
+      213: 6990174271292029856
+    second: Dirt Sprite_617
+  - first:
+      213: 4105305325456442551
+    second: Dirt Sprite_618
+  - first:
+      213: 2882054235787123413
+    second: Dirt Sprite_619
+  - first:
+      213: 1832821714746671090
+    second: Dirt Sprite_620
+  - first:
+      213: -9174519781986332291
+    second: Dirt Sprite_621
+  - first:
+      213: 6259753829786471504
+    second: Dirt Sprite_622
+  - first:
+      213: -5963178289480594372
+    second: Dirt Sprite_623
+  - first:
+      213: -7908663951984308879
+    second: Dirt Sprite_624
+  - first:
+      213: -3719462831859437526
+    second: Dirt Sprite_625
+  - first:
+      213: 3497412471036399701
+    second: Dirt Sprite_626
+  - first:
+      213: -2042281004051981246
+    second: Dirt Sprite_627
+  - first:
+      213: -999142744856149856
+    second: Dirt Sprite_628
+  - first:
+      213: -3827203363028488179
+    second: Dirt Sprite_629
+  - first:
+      213: -3280278166417150079
+    second: Dirt Sprite_630
+  - first:
+      213: 5660703158437341229
+    second: Dirt Sprite_631
+  - first:
+      213: 8570633105783225850
+    second: Dirt Sprite_632
+  - first:
+      213: -3092075073266405868
+    second: Dirt Sprite_633
+  - first:
+      213: -2859553514620403201
+    second: Dirt Sprite_634
+  - first:
+      213: -5566030471400555591
+    second: Dirt Sprite_635
+  - first:
+      213: 2775116042281572421
+    second: Dirt Sprite_636
+  - first:
+      213: 5254499026159458638
+    second: Dirt Sprite_637
+  - first:
+      213: -2589442012119658187
+    second: Dirt Sprite_638
+  - first:
+      213: 2192033980386158215
+    second: Dirt Sprite_639
+  - first:
+      213: -5376944213155176496
+    second: Dirt Sprite_640
+  - first:
+      213: -4629625372733915777
+    second: Dirt Sprite_641
+  - first:
+      213: 3670980955757642667
+    second: Dirt Sprite_642
+  - first:
+      213: -4914571394706129826
+    second: Dirt Sprite_643
+  - first:
+      213: -3476512602160904830
+    second: Dirt Sprite_644
+  - first:
+      213: -3112832325444697701
+    second: Dirt Sprite_645
+  - first:
+      213: -6105061197347183136
+    second: Dirt Sprite_646
+  - first:
+      213: -1469897642306367694
+    second: Dirt Sprite_647
+  - first:
+      213: -1018628580835442412
+    second: Dirt Sprite_648
+  - first:
+      213: 4202474392507607978
+    second: Dirt Sprite_649
+  - first:
+      213: 531226586224428221
+    second: Dirt Sprite_650
+  - first:
+      213: -8345204935276793258
+    second: Dirt Sprite_651
+  - first:
+      213: 119199869367206872
+    second: Dirt Sprite_652
+  - first:
+      213: -8487900306575413620
+    second: Dirt Sprite_653
+  - first:
+      213: 1789818548409851843
+    second: Dirt Sprite_654
+  - first:
+      213: 6531065168903390717
+    second: Dirt Sprite_655
+  - first:
+      213: -6578479535539272697
+    second: Dirt Sprite_656
+  - first:
+      213: 2778456798127386244
+    second: Dirt Sprite_657
+  - first:
+      213: 2228720727792172924
+    second: Dirt Sprite_658
+  - first:
+      213: 7072718634258918432
+    second: Dirt Sprite_659
+  - first:
+      213: 8299850176609557724
+    second: Dirt Sprite_660
+  - first:
+      213: -6218275675769167074
+    second: Dirt Sprite_661
+  - first:
+      213: -1535188057710871915
+    second: Dirt Sprite_662
+  - first:
+      213: 7687718740495864673
+    second: Dirt Sprite_663
+  - first:
+      213: 873044640196453992
+    second: Dirt Sprite_664
+  - first:
+      213: -2920716759816710254
+    second: Dirt Sprite_665
+  - first:
+      213: 7221295545436576477
+    second: Dirt Sprite_666
+  - first:
+      213: -2613476765183041667
+    second: Dirt Sprite_667
+  - first:
+      213: -7186026478896374671
+    second: Dirt Sprite_668
+  - first:
+      213: 8548398527096123119
+    second: Dirt Sprite_669
+  - first:
+      213: 8899635415371874104
+    second: Dirt Sprite_670
+  - first:
+      213: -7547499510754543109
+    second: Dirt Sprite_671
+  - first:
+      213: 7939894017391037552
+    second: Dirt Sprite_672
+  - first:
+      213: -2494360619587907693
+    second: Dirt Sprite_673
+  - first:
+      213: 3895834616951044774
+    second: Dirt Sprite_674
+  - first:
+      213: -7143798416480794047
+    second: Dirt Sprite_675
+  - first:
+      213: -5364395074713262173
+    second: Dirt Sprite_676
+  - first:
+      213: -4001909333534209473
+    second: Dirt Sprite_677
+  - first:
+      213: 1856178316080140956
+    second: Dirt Sprite_678
+  - first:
+      213: 8253035356876698832
+    second: Dirt Sprite_679
+  - first:
+      213: -5249085152758706046
+    second: Dirt Sprite_680
+  - first:
+      213: -4929729484850697038
+    second: Dirt Sprite_681
+  - first:
+      213: -5634191186451274149
+    second: Dirt Sprite_682
+  - first:
+      213: -1577653027599642057
+    second: Dirt Sprite_683
+  - first:
+      213: -2221527260339600684
+    second: Dirt Sprite_684
+  - first:
+      213: 7513195130556085384
+    second: Dirt Sprite_685
+  - first:
+      213: -8091732432383119243
+    second: Dirt Sprite_686
+  - first:
+      213: 5368921780375551698
+    second: Dirt Sprite_687
+  - first:
+      213: 524114246554057145
+    second: Dirt Sprite_688
+  - first:
+      213: 8795781476340167153
+    second: Dirt Sprite_689
+  - first:
+      213: 7491874031934214262
+    second: Dirt Sprite_690
+  - first:
+      213: -8067965654929521410
+    second: Dirt Sprite_691
+  - first:
+      213: -2596967716869195592
+    second: Dirt Sprite_692
+  - first:
+      213: -4635272275464855544
+    second: Dirt Sprite_693
+  - first:
+      213: 8441863368145164839
+    second: Dirt Sprite_694
+  - first:
+      213: 375476566388344355
+    second: Dirt Sprite_695
+  - first:
+      213: 1577848945769433664
+    second: Dirt Sprite_696
+  - first:
+      213: -1215996933940989166
+    second: Dirt Sprite_697
+  - first:
+      213: -8804250760035206909
+    second: Dirt Sprite_698
+  - first:
+      213: 914027951943778442
+    second: Dirt Sprite_699
+  - first:
+      213: 7699042978401865513
+    second: Dirt Sprite_700
+  - first:
+      213: -8193636202512561542
+    second: Dirt Sprite_701
+  - first:
+      213: 7153559051807425067
+    second: Dirt Sprite_702
+  - first:
+      213: 6748887843025198828
+    second: Dirt Sprite_703
+  - first:
+      213: -1097255701727799470
+    second: Dirt Sprite_704
+  - first:
+      213: -2954417843248607495
+    second: Dirt Sprite_705
+  - first:
+      213: -3742491100064012389
+    second: Dirt Sprite_706
+  - first:
+      213: 7655607035042827398
+    second: Dirt Sprite_707
+  - first:
+      213: -7877844822659170985
+    second: Dirt Sprite_708
+  - first:
+      213: 7971561704603760795
+    second: Dirt Sprite_709
+  - first:
+      213: -8920691067913700511
+    second: Dirt Sprite_710
+  - first:
+      213: 7923199039820955629
+    second: Dirt Sprite_711
+  - first:
+      213: -1327504617596582912
+    second: Dirt Sprite_712
+  - first:
+      213: 8709976138514730366
+    second: Dirt Sprite_713
+  - first:
+      213: -4677434079677659473
+    second: Dirt Sprite_714
+  - first:
+      213: 214292989709036555
+    second: Dirt Sprite_715
+  - first:
+      213: -6711276146764089291
+    second: Dirt Sprite_716
+  - first:
+      213: -6757400228349618127
+    second: Dirt Sprite_717
+  - first:
+      213: 7245068542861976349
+    second: Dirt Sprite_718
+  - first:
+      213: 7728061608299174906
+    second: Dirt Sprite_719
+  - first:
+      213: -8474657632778118760
+    second: Dirt Sprite_720
+  - first:
+      213: -834279820308137433
+    second: Dirt Sprite_721
+  - first:
+      213: 6794857161334360747
+    second: Dirt Sprite_722
+  - first:
+      213: 2872808043787209581
+    second: Dirt Sprite_723
+  - first:
+      213: 9087596721183515969
+    second: Dirt Sprite_724
+  - first:
+      213: -2346572885133747439
+    second: Dirt Sprite_725
+  - first:
+      213: 8764959523233937925
+    second: Dirt Sprite_726
+  - first:
+      213: -3188495114129130643
+    second: Dirt Sprite_727
+  - first:
+      213: -4412894812002253216
+    second: Dirt Sprite_728
+  - first:
+      213: 7083174794471984505
+    second: Dirt Sprite_729
+  - first:
+      213: -3938163029997576685
+    second: Dirt Sprite_730
+  - first:
+      213: 7030991820285758085
+    second: Dirt Sprite_731
+  - first:
+      213: 4923376438810323924
+    second: Dirt Sprite_732
+  - first:
+      213: 6536618559687826187
+    second: Dirt Sprite_733
+  - first:
+      213: 7515981726530264960
+    second: Dirt Sprite_734
+  - first:
+      213: -1954922460026190400
+    second: Dirt Sprite_735
+  - first:
+      213: -8886773829622529433
+    second: Dirt Sprite_736
+  - first:
+      213: -2314055130666829209
+    second: Dirt Sprite_737
+  - first:
+      213: -8116030210858078772
+    second: Dirt Sprite_738
+  - first:
+      213: -7095505928199697293
+    second: Dirt Sprite_739
+  - first:
+      213: 6193494922276179381
+    second: Dirt Sprite_740
+  - first:
+      213: -717719378027520390
+    second: Dirt Sprite_741
+  - first:
+      213: -5132834878649149626
+    second: Dirt Sprite_742
+  - first:
+      213: 3546359146191589949
+    second: Dirt Sprite_743
+  - first:
+      213: 3669257772964575995
+    second: Dirt Sprite_744
+  - first:
+      213: -4618206858678747817
+    second: Dirt Sprite_745
+  - first:
+      213: 6258512984116469282
+    second: Dirt Sprite_746
+  - first:
+      213: -4968902659911173254
+    second: Dirt Sprite_747
+  - first:
+      213: -3219115681287492471
+    second: Dirt Sprite_748
+  - first:
+      213: -2980145892269050800
+    second: Dirt Sprite_749
+  - first:
+      213: 218752146853605216
+    second: Dirt Sprite_750
+  - first:
+      213: 8228111472197595721
+    second: Dirt Sprite_751
+  - first:
+      213: 3258898242767610308
+    second: Dirt Sprite_752
+  - first:
+      213: 1625302318044230940
+    second: Dirt Sprite_753
+  - first:
+      213: 9164200206541581542
+    second: Dirt Sprite_754
+  - first:
+      213: -7158832088033161362
+    second: Dirt Sprite_755
+  - first:
+      213: 513886290081220414
+    second: Dirt Sprite_756
+  - first:
+      213: -395767126519356783
+    second: Dirt Sprite_757
+  - first:
+      213: -3661208440659163237
+    second: Dirt Sprite_758
+  - first:
+      213: 4305765284042753757
+    second: Dirt Sprite_759
+  - first:
+      213: 7346607701609664716
+    second: Dirt Sprite_760
+  - first:
+      213: 5770112813007172195
+    second: Dirt Sprite_761
+  - first:
+      213: 1825646446879004388
+    second: Dirt Sprite_762
+  - first:
+      213: 1258530721544292104
+    second: Dirt Sprite_763
+  - first:
+      213: 4603380962634904295
+    second: Dirt Sprite_764
+  - first:
+      213: -7769720500589563527
+    second: Dirt Sprite_765
+  - first:
+      213: -6158943848925026099
+    second: Dirt Sprite_766
+  - first:
+      213: -2363167117801793309
+    second: Dirt Sprite_767
+  - first:
+      213: -1426990620893200863
+    second: Dirt Sprite_768
+  - first:
+      213: -633001806942943579
+    second: Dirt Sprite_769
+  - first:
+      213: -4808611215848453331
+    second: Dirt Sprite_770
+  - first:
+      213: -2830919726897304812
+    second: Dirt Sprite_771
+  - first:
+      213: 1517971187080955174
+    second: Dirt Sprite_772
+  - first:
+      213: 7495117317525304925
+    second: Dirt Sprite_773
+  - first:
+      213: -511266705868461165
+    second: Dirt Sprite_774
+  - first:
+      213: -1627010393438299931
+    second: Dirt Sprite_775
+  - first:
+      213: -1380178547574583914
+    second: Dirt Sprite_776
+  - first:
+      213: -6519967636902116588
+    second: Dirt Sprite_777
+  - first:
+      213: -7873794146914313679
+    second: Dirt Sprite_778
+  - first:
+      213: -5782876447951706677
+    second: Dirt Sprite_779
+  - first:
+      213: -4638718227263593176
+    second: Dirt Sprite_780
+  - first:
+      213: -3299783735077845748
+    second: Dirt Sprite_781
+  - first:
+      213: -4888476841214159789
+    second: Dirt Sprite_782
+  - first:
+      213: -922300963452577436
+    second: Dirt Sprite_783
+  - first:
+      213: -1060283527339131738
+    second: Dirt Sprite_784
+  - first:
+      213: -8315331909863239354
+    second: Dirt Sprite_785
+  - first:
+      213: 1578973788790105879
+    second: Dirt Sprite_786
+  - first:
+      213: -5319019963251756868
+    second: Dirt Sprite_787
+  - first:
+      213: -4300654236962073533
+    second: Dirt Sprite_788
+  - first:
+      213: 1702680491305634639
+    second: Dirt Sprite_789
+  - first:
+      213: -7936728589767573589
+    second: Dirt Sprite_790
+  - first:
+      213: -488680218177056651
+    second: Dirt Sprite_791
+  - first:
+      213: 3819310051227412297
+    second: Dirt Sprite_792
+  - first:
+      213: -7245168448897040355
+    second: Dirt Sprite_793
+  - first:
+      213: -3779135125802993760
+    second: Dirt Sprite_794
+  - first:
+      213: -7127637437895507406
+    second: Dirt Sprite_795
+  - first:
+      213: -3735488985574103384
+    second: Dirt Sprite_796
+  - first:
+      213: 6043120427605868969
+    second: Dirt Sprite_797
+  - first:
+      213: 91720956372846559
+    second: Dirt Sprite_798
+  - first:
+      213: 8446961101692441273
+    second: Dirt Sprite_799
+  - first:
+      213: 1786519575273375447
+    second: Dirt Sprite_800
+  - first:
+      213: -5854990446368681073
+    second: Dirt Sprite_801
+  - first:
+      213: -4426457927588125527
+    second: Dirt Sprite_802
+  - first:
+      213: -7790969921389834615
+    second: Dirt Sprite_803
+  - first:
+      213: 293756978364790643
+    second: Dirt Sprite_804
+  - first:
+      213: 3586352156552374560
+    second: Dirt Sprite_805
+  - first:
+      213: -6920147602317471742
+    second: Dirt Sprite_806
+  - first:
+      213: 4501335085926520692
+    second: Dirt Sprite_807
+  - first:
+      213: -2576479851080510977
+    second: Dirt Sprite_808
+  - first:
+      213: -3425842195807355852
+    second: Dirt Sprite_809
+  - first:
+      213: 6514633388779935548
+    second: Dirt Sprite_810
+  - first:
+      213: -8277129276377187116
+    second: Dirt Sprite_811
+  - first:
+      213: -6411718603848739262
+    second: Dirt Sprite_812
+  - first:
+      213: -4007796255509919968
+    second: Dirt Sprite_813
+  - first:
+      213: 9050984862313332740
+    second: Dirt Sprite_814
+  - first:
+      213: 6295294354174350767
+    second: Dirt Sprite_815
+  - first:
+      213: -7022509285447623157
+    second: Dirt Sprite_816
+  - first:
+      213: 3103270209800337497
+    second: Dirt Sprite_817
+  - first:
+      213: -4138566014656197416
+    second: Dirt Sprite_818
+  - first:
+      213: 943376762552738476
+    second: Dirt Sprite_819
+  - first:
+      213: -2657339620783565836
+    second: Dirt Sprite_820
+  - first:
+      213: 5856125134758380976
+    second: Dirt Sprite_821
+  - first:
+      213: 2264696852225631722
+    second: Dirt Sprite_822
+  - first:
+      213: -7755937542348112603
+    second: Dirt Sprite_823
+  - first:
+      213: 6732032131447686531
+    second: Dirt Sprite_824
+  - first:
+      213: 7047239736377135130
+    second: Dirt Sprite_825
+  - first:
+      213: 3270299680639359
+    second: Dirt Sprite_826
+  - first:
+      213: -3597176126010211364
+    second: Dirt Sprite_827
+  - first:
+      213: -5058724462958398350
+    second: Dirt Sprite_828
+  - first:
+      213: 711295666395196133
+    second: Dirt Sprite_829
+  - first:
+      213: -8989769544776253642
+    second: Dirt Sprite_830
+  - first:
+      213: -4775230726526481820
+    second: Dirt Sprite_831
+  - first:
+      213: 1016371143871968034
+    second: Dirt Sprite_832
+  - first:
+      213: 9198033202786596495
+    second: Dirt Sprite_833
+  - first:
+      213: 8505269371858729719
+    second: Dirt Sprite_834
+  - first:
+      213: -4718602020268956439
+    second: Dirt Sprite_835
+  - first:
+      213: -3451702343570695229
+    second: Dirt Sprite_836
+  - first:
+      213: -9089759399284673814
+    second: Dirt Sprite_837
+  - first:
+      213: -6456737203619360711
+    second: Dirt Sprite_838
+  - first:
+      213: 5271350758912383181
+    second: Dirt Sprite_839
+  - first:
+      213: 209916986823968343
+    second: Dirt Sprite_840
+  - first:
+      213: 2843877267544936442
+    second: Dirt Sprite_841
+  - first:
+      213: 6412823016147668000
+    second: Dirt Sprite_842
+  - first:
+      213: -3871701913889864266
+    second: Dirt Sprite_843
+  - first:
+      213: 4900684829969519095
+    second: Dirt Sprite_844
+  - first:
+      213: 4916879495821855520
+    second: Dirt Sprite_845
+  - first:
+      213: -7746549429136530946
+    second: Dirt Sprite_846
+  - first:
+      213: 3718093569604433658
+    second: Dirt Sprite_847
+  - first:
+      213: 5879383383308347863
+    second: Dirt Sprite_848
+  - first:
+      213: 7564502411616577548
+    second: Dirt Sprite_849
+  - first:
+      213: -4652434252208357902
+    second: Dirt Sprite_850
+  - first:
+      213: -7488510193990479326
+    second: Dirt Sprite_851
+  - first:
+      213: -2844358216708214558
+    second: Dirt Sprite_852
+  - first:
+      213: 6214258288117963100
+    second: Dirt Sprite_853
+  - first:
+      213: 6612178400130133940
+    second: Dirt Sprite_854
+  - first:
+      213: -5260329288878014615
+    second: Dirt Sprite_855
+  - first:
+      213: -263298869556082302
+    second: Dirt Sprite_856
+  - first:
+      213: -4836091832816828686
+    second: Dirt Sprite_857
+  - first:
+      213: -4118119036168117102
+    second: Dirt Sprite_858
+  - first:
+      213: 645717956703072420
+    second: Dirt Sprite_859
+  - first:
+      213: -3845920324691145592
+    second: Dirt Sprite_860
+  - first:
+      213: -2923610336892503535
+    second: Dirt Sprite_861
+  - first:
+      213: -1529665294216602837
+    second: Dirt Sprite_862
+  - first:
+      213: -2597386549259947809
+    second: Dirt Sprite_863
+  - first:
+      213: 5506205610105576638
+    second: Dirt Sprite_864
+  - first:
+      213: 8975096971107368198
+    second: Dirt Sprite_865
+  - first:
+      213: -5411691263591425527
+    second: Dirt Sprite_866
+  - first:
+      213: 5619895267993980973
+    second: Dirt Sprite_867
+  - first:
+      213: 1837155787898007034
+    second: Dirt Sprite_868
+  - first:
+      213: 5350909552553215134
+    second: Dirt Sprite_869
+  - first:
+      213: -6211099740494114382
+    second: Dirt Sprite_870
+  - first:
+      213: -5839475961975976840
+    second: Dirt Sprite_871
+  - first:
+      213: 8097036188631047623
+    second: Dirt Sprite_872
+  - first:
+      213: -1863287985254809572
+    second: Dirt Sprite_873
+  - first:
+      213: -6204838143154137925
+    second: Dirt Sprite_874
+  - first:
+      213: 1031418289651959098
+    second: Dirt Sprite_875
+  - first:
+      213: 5293114363470917756
+    second: Dirt Sprite_876
+  - first:
+      213: -673746296845605116
+    second: Dirt Sprite_877
+  - first:
+      213: 176695087513546862
+    second: Dirt Sprite_878
+  - first:
+      213: -5362469860646632093
+    second: Dirt Sprite_879
+  - first:
+      213: -3665954130958036551
+    second: Dirt Sprite_880
+  - first:
+      213: 6549092592674462319
+    second: Dirt Sprite_881
+  - first:
+      213: 1505925657281129302
+    second: Dirt Sprite_882
+  - first:
+      213: 3346344602939858737
+    second: Dirt Sprite_883
+  - first:
+      213: 8325310974888047223
+    second: Dirt Sprite_884
+  - first:
+      213: 5641148972735068001
+    second: Dirt Sprite_885
+  - first:
+      213: -2205578441007885544
+    second: Dirt Sprite_886
+  - first:
+      213: 6944055099380297269
+    second: Dirt Sprite_887
+  - first:
+      213: 2447952290796563089
+    second: Dirt Sprite_888
+  - first:
+      213: 4535380392260161067
+    second: Dirt Sprite_889
+  - first:
+      213: 833041739460639886
+    second: Dirt Sprite_890
+  - first:
+      213: -1988079324992301838
+    second: Dirt Sprite_891
+  - first:
+      213: 3503392124891718980
+    second: Dirt Sprite_892
+  - first:
+      213: 2711776451651636074
+    second: Dirt Sprite_893
+  - first:
+      213: 613212404061344122
+    second: Dirt Sprite_894
+  - first:
+      213: -6864631307811620240
+    second: Dirt Sprite_895
+  - first:
+      213: -4536747163440133590
+    second: Dirt Sprite_896
+  - first:
+      213: -4712123976720935194
+    second: Dirt Sprite_897
+  - first:
+      213: -7768640547616192858
+    second: Dirt Sprite_898
+  - first:
+      213: -1253617138153071277
+    second: Dirt Sprite_899
+  - first:
+      213: -6189019109701536247
+    second: Dirt Sprite_900
+  - first:
+      213: 7980338018918298089
+    second: Dirt Sprite_901
+  - first:
+      213: 8804892902744112687
+    second: Dirt Sprite_902
+  - first:
+      213: -4592861904650798030
+    second: Dirt Sprite_903
+  - first:
+      213: 4921984888734676178
+    second: Dirt Sprite_904
+  - first:
+      213: -3674254316434234301
+    second: Dirt Sprite_905
+  - first:
+      213: 4224348219736043768
+    second: Dirt Sprite_906
+  - first:
+      213: 6986310665709598339
+    second: Dirt Sprite_907
+  - first:
+      213: -2017962589381427289
+    second: Dirt Sprite_908
+  - first:
+      213: -7464959250202774342
+    second: Dirt Sprite_909
+  - first:
+      213: 8740129593264625258
+    second: Dirt Sprite_910
+  - first:
+      213: -4293907385988865005
+    second: Dirt Sprite_911
+  - first:
+      213: 2772309484411189898
+    second: Dirt Sprite_912
+  - first:
+      213: -4631347796229634873
+    second: Dirt Sprite_913
+  - first:
+      213: -416669089256096219
+    second: Dirt Sprite_914
+  - first:
+      213: -1938216692188072630
+    second: Dirt Sprite_915
+  - first:
+      213: -4928423027182906463
+    second: Dirt Sprite_916
+  - first:
+      213: 6615786384892069463
+    second: Dirt Sprite_917
+  - first:
+      213: 4937367831487094892
+    second: Dirt Sprite_918
+  - first:
+      213: -6358563307855175561
+    second: Dirt Sprite_919
+  - first:
+      213: -2405439559336708609
+    second: Dirt Sprite_920
+  - first:
+      213: -3627029216072966844
+    second: Dirt Sprite_921
+  - first:
+      213: -4362901607715265996
+    second: Dirt Sprite_922
+  - first:
+      213: -4104596758523753401
+    second: Dirt Sprite_923
+  - first:
+      213: 7955451133592377057
+    second: Dirt Sprite_924
+  - first:
+      213: -8016947312296342710
+    second: Dirt Sprite_925
+  - first:
+      213: 1104629124497719687
+    second: Dirt Sprite_926
+  - first:
+      213: -5758600279171576382
+    second: Dirt Sprite_927
+  - first:
+      213: -8055778524036513650
+    second: Dirt Sprite_928
+  - first:
+      213: 2083414945115052793
+    second: Dirt Sprite_929
+  - first:
+      213: 7807001349151902836
+    second: Dirt Sprite_930
+  - first:
+      213: -5322148677145565501
+    second: Dirt Sprite_931
+  - first:
+      213: 7077263382225102526
+    second: Dirt Sprite_932
+  - first:
+      213: 7222216876225647711
+    second: Dirt Sprite_933
+  - first:
+      213: 7608267248956974266
+    second: Dirt Sprite_934
+  - first:
+      213: -8107008948883817553
+    second: Dirt Sprite_935
+  - first:
+      213: 3651150083419896089
+    second: Dirt Sprite_936
+  - first:
+      213: -3444112463131228412
+    second: Dirt Sprite_937
+  - first:
+      213: -3912167077275319352
+    second: Dirt Sprite_938
+  - first:
+      213: -3925625165845247954
+    second: Dirt Sprite_939
+  - first:
+      213: -4565384048092909042
+    second: Dirt Sprite_940
+  - first:
+      213: -4858352253679856357
+    second: Dirt Sprite_941
+  - first:
+      213: 3914062824840040286
+    second: Dirt Sprite_942
+  - first:
+      213: -1713429485227321868
+    second: Dirt Sprite_943
+  - first:
+      213: -1458539006271267019
+    second: Dirt Sprite_944
+  - first:
+      213: 7855906110494892185
+    second: Dirt Sprite_945
+  - first:
+      213: 5290638032225420746
+    second: Dirt Sprite_946
+  - first:
+      213: 3401055183724243841
+    second: Dirt Sprite_947
+  - first:
+      213: 2717122053539997596
+    second: Dirt Sprite_948
+  - first:
+      213: 2155266436706967296
+    second: Dirt Sprite_949
+  - first:
+      213: -8754193406585375460
+    second: Dirt Sprite_950
+  - first:
+      213: 9144212417925487677
+    second: Dirt Sprite_951
+  - first:
+      213: 5727136334935303277
+    second: Dirt Sprite_952
+  - first:
+      213: 7520995203931715633
+    second: Dirt Sprite_953
+  - first:
+      213: 3800238240116041694
+    second: Dirt Sprite_954
+  - first:
+      213: -7184070505889689426
+    second: Dirt Sprite_955
+  - first:
+      213: 4351713818108556837
+    second: Dirt Sprite_956
+  - first:
+      213: -5157153242582837363
+    second: Dirt Sprite_957
+  - first:
+      213: 3135896190227850510
+    second: Dirt Sprite_958
+  - first:
+      213: 4117965243745217236
+    second: Dirt Sprite_959
+  - first:
+      213: 2947191130609114542
+    second: Dirt Sprite_960
+  - first:
+      213: -1057034454892054062
+    second: Dirt Sprite_961
+  - first:
+      213: -9142423502042390214
+    second: Dirt Sprite_962
+  - first:
+      213: -4306475816193449008
+    second: Dirt Sprite_963
+  - first:
+      213: -969861069199535861
+    second: Dirt Sprite_964
+  - first:
+      213: -2344778678837708108
+    second: Dirt Sprite_965
+  - first:
+      213: 1093252282503846880
+    second: Dirt Sprite_966
+  - first:
+      213: -3720726821952716933
+    second: Dirt Sprite_967
+  - first:
+      213: -4449836472776559192
+    second: Dirt Sprite_968
+  - first:
+      213: 9054017276430053844
+    second: Dirt Sprite_969
+  - first:
+      213: -431599976405115680
+    second: Dirt Sprite_970
+  - first:
+      213: 5352750161969221869
+    second: Dirt Sprite_971
+  - first:
+      213: -7526396687318788852
+    second: Dirt Sprite_972
+  - first:
+      213: 6340280771109123992
+    second: Dirt Sprite_973
+  - first:
+      213: 4851330538338093967
+    second: Dirt Sprite_974
+  - first:
+      213: -7361672111143470102
+    second: Dirt Sprite_975
+  - first:
+      213: 5065251326148612278
+    second: Dirt Sprite_976
+  - first:
+      213: 1779340545275715246
+    second: Dirt Sprite_977
+  - first:
+      213: -3862226092874355005
+    second: Dirt Sprite_978
+  - first:
+      213: 2424056829462405553
+    second: Dirt Sprite_979
+  - first:
+      213: -1890459890764763747
+    second: Dirt Sprite_980
+  - first:
+      213: -537133546484365559
+    second: Dirt Sprite_981
+  - first:
+      213: -3945384025131547711
+    second: Dirt Sprite_982
+  - first:
+      213: 666052756488539497
+    second: Dirt Sprite_983
+  - first:
+      213: 4307453278088896243
+    second: Dirt Sprite_984
+  - first:
+      213: -5574497291676572834
+    second: Dirt Sprite_985
+  - first:
+      213: -4659466323023169370
+    second: Dirt Sprite_986
+  - first:
+      213: 7504116359733695785
+    second: Dirt Sprite_987
+  - first:
+      213: 6697104870775359994
+    second: Dirt Sprite_988
+  - first:
+      213: 402700419671907134
+    second: Dirt Sprite_989
+  - first:
+      213: -4651534801714364702
+    second: Dirt Sprite_990
+  - first:
+      213: -3619150767171540897
+    second: Dirt Sprite_991
+  - first:
+      213: 1623571257498102933
+    second: Dirt Sprite_992
+  - first:
+      213: -6169422535623878922
+    second: Dirt Sprite_993
+  - first:
+      213: -8719243576666677322
+    second: Dirt Sprite_994
+  - first:
+      213: 1132620929431272628
+    second: Dirt Sprite_995
+  - first:
+      213: -557737327328904564
+    second: Dirt Sprite_996
+  - first:
+      213: -5509423737291376660
+    second: Dirt Sprite_997
+  - first:
+      213: 8002142561209449518
+    second: Dirt Sprite_998
+  - first:
+      213: -8975943235510039862
+    second: Dirt Sprite_999
+  - first:
+      213: -6097589963067717987
+    second: Dirt Sprite_1000
+  - first:
+      213: 1344615312243991057
+    second: Dirt Sprite_1001
+  - first:
+      213: -7010365857641177692
+    second: Dirt Sprite_1002
+  - first:
+      213: 1195580382802666602
+    second: Dirt Sprite_1003
+  - first:
+      213: -1395648098274467776
+    second: Dirt Sprite_1004
+  - first:
+      213: -1083250342112150277
+    second: Dirt Sprite_1005
+  - first:
+      213: -1322688851751777656
+    second: Dirt Sprite_1006
+  - first:
+      213: -2145129864165906528
+    second: Dirt Sprite_1007
+  - first:
+      213: 5662324653519671790
+    second: Dirt Sprite_1008
+  - first:
+      213: -7242996373401368894
+    second: Dirt Sprite_1009
+  - first:
+      213: 933099353157929348
+    second: Dirt Sprite_1010
+  - first:
+      213: 4930305299272872630
+    second: Dirt Sprite_1011
+  - first:
+      213: 5235132465961350211
+    second: Dirt Sprite_1012
+  - first:
+      213: 8544261867311561120
+    second: Dirt Sprite_1013
+  - first:
+      213: 2137328308942989152
+    second: Dirt Sprite_1014
+  - first:
+      213: 7115890966830481815
+    second: Dirt Sprite_1015
+  - first:
+      213: 5454154240199027995
+    second: Dirt Sprite_1016
+  - first:
+      213: 3883032807206882677
+    second: Dirt Sprite_1017
+  - first:
+      213: 5101159763349024212
+    second: Dirt Sprite_1018
+  - first:
+      213: -6989857548740693863
+    second: Dirt Sprite_1019
+  - first:
+      213: -7718534151344516891
+    second: Dirt Sprite_1020
+  - first:
+      213: -1609135622429391354
+    second: Dirt Sprite_1021
+  - first:
+      213: -4825809718364367171
+    second: Dirt Sprite_1022
+  - first:
+      213: 7152342674801275824
+    second: Dirt Sprite_1023
+  - first:
+      213: 8234223979923840502
+    second: Dirt Sprite_1024
+  - first:
+      213: -6964105578704032195
+    second: Dirt Sprite_1025
+  - first:
+      213: -8802591175951751582
+    second: Dirt Sprite_1026
+  - first:
+      213: -2459483159334370146
+    second: Dirt Sprite_1027
+  - first:
+      213: 86905376646929901
+    second: Dirt Sprite_1028
+  - first:
+      213: 4134912289091466806
+    second: Dirt Sprite_1029
+  - first:
+      213: 1150733864106163543
+    second: Dirt Sprite_1030
+  - first:
+      213: -8179500942393506992
+    second: Dirt Sprite_1031
+  - first:
+      213: 190960537626690656
+    second: Dirt Sprite_1032
+  - first:
+      213: 1121521624794520708
+    second: Dirt Sprite_1033
+  - first:
+      213: 2758274638483542903
+    second: Dirt Sprite_1034
+  - first:
+      213: 262598755727749610
+    second: Dirt Sprite_1035
+  - first:
+      213: 4731394205839047344
+    second: Dirt Sprite_1036
+  - first:
+      213: -1191514076395416203
+    second: Dirt Sprite_1037
+  - first:
+      213: -6205381099994503849
+    second: Dirt Sprite_1038
+  - first:
+      213: -1478852215372524340
+    second: Dirt Sprite_1039
+  - first:
+      213: 7779728776352859429
+    second: Dirt Sprite_1040
+  - first:
+      213: -5446083039855153712
+    second: Dirt Sprite_1041
+  - first:
+      213: -1662312576713390980
+    second: Dirt Sprite_1042
+  - first:
+      213: 444400111527147007
+    second: Dirt Sprite_1043
+  - first:
+      213: -6474809151149385681
+    second: Dirt Sprite_1044
+  - first:
+      213: 5915778646065482979
+    second: Dirt Sprite_1045
+  - first:
+      213: 3324420340089902755
+    second: Dirt Sprite_1046
+  - first:
+      213: -7005374532141549975
+    second: Dirt Sprite_1047
+  - first:
+      213: -3377349950264829920
+    second: Dirt Sprite_1048
+  - first:
+      213: 6093594453819681299
+    second: Dirt Sprite_1049
+  - first:
+      213: 5798180910623223972
+    second: Dirt Sprite_1050
+  - first:
+      213: 2321238795176147461
+    second: Dirt Sprite_1051
+  - first:
+      213: -2534852623775127927
+    second: Dirt Sprite_1052
+  - first:
+      213: -7279564538198057312
+    second: Dirt Sprite_1053
+  - first:
+      213: -102309331194122720
+    second: Dirt Sprite_1054
+  - first:
+      213: 8935456689151878804
+    second: Dirt Sprite_1055
+  - first:
+      213: -3465794715684792103
+    second: Dirt Sprite_1056
+  - first:
+      213: -8857536597563106074
+    second: Dirt Sprite_1057
+  - first:
+      213: 5345502270889785421
+    second: Dirt Sprite_1058
+  - first:
+      213: -5947894417744897386
+    second: Dirt Sprite_1059
+  - first:
+      213: -3170402693828055508
+    second: Dirt Sprite_1060
+  - first:
+      213: -7133619782709545255
+    second: Dirt Sprite_1061
+  - first:
+      213: 8856342485758527946
+    second: Dirt Sprite_1062
+  - first:
+      213: 8539668149776483796
+    second: Dirt Sprite_1063
+  - first:
+      213: 4142102993505105989
+    second: Dirt Sprite_1064
+  - first:
+      213: 1477996047072654250
+    second: Dirt Sprite_1065
+  - first:
+      213: -152161893477269443
+    second: Dirt Sprite_1066
+  - first:
+      213: -1370702993995942620
+    second: Dirt Sprite_1067
+  - first:
+      213: -6565898428258230145
+    second: Dirt Sprite_1068
+  - first:
+      213: 6948490662982835950
+    second: Dirt Sprite_1069
+  - first:
+      213: 356331340212875277
+    second: Dirt Sprite_1070
+  - first:
+      213: -3702754748190316560
+    second: Dirt Sprite_1071
+  - first:
+      213: -6117238906020280242
+    second: Dirt Sprite_1072
+  - first:
+      213: -6935127869965848748
+    second: Dirt Sprite_1073
+  - first:
+      213: -291447380414857402
+    second: Dirt Sprite_1074
+  - first:
+      213: -8298375638857523018
+    second: Dirt Sprite_1075
+  - first:
+      213: 8643593517198316578
+    second: Dirt Sprite_1076
+  - first:
+      213: 1055700798288152289
+    second: Dirt Sprite_1077
+  - first:
+      213: -2545865290429358365
+    second: Dirt Sprite_1078
+  - first:
+      213: -9037595519095254160
+    second: Dirt Sprite_1079
+  - first:
+      213: 5883663976031323086
+    second: Dirt Sprite_1080
+  - first:
+      213: -1971591474702318861
+    second: Dirt Sprite_1081
+  - first:
+      213: 7280357609473999275
+    second: Dirt Sprite_1082
+  - first:
+      213: -7563679198861660823
+    second: Dirt Sprite_1083
+  - first:
+      213: 8024758352594289132
+    second: Dirt Sprite_1084
+  - first:
+      213: 33818340118319658
+    second: Dirt Sprite_1085
+  - first:
+      213: 750081425442788345
+    second: Dirt Sprite_1086
+  - first:
+      213: -7614991907941781575
+    second: Dirt Sprite_1087
+  - first:
+      213: -4783383205669846405
+    second: Dirt Sprite_1088
+  - first:
+      213: -4110726214461365413
+    second: Dirt Sprite_1089
+  - first:
+      213: 5492386807698083521
+    second: Dirt Sprite_1090
+  - first:
+      213: 1514952994082517328
+    second: Dirt Sprite_1091
+  - first:
+      213: 5016509903932605006
+    second: Dirt Sprite_1092
+  - first:
+      213: 3751408150641327640
+    second: Dirt Sprite_1093
+  - first:
+      213: 467038730903811427
+    second: Dirt Sprite_1094
+  - first:
+      213: 9182012192135383541
+    second: Dirt Sprite_1095
+  - first:
+      213: -369734495631317241
+    second: Dirt Sprite_1096
+  - first:
+      213: -2096713303653015283
+    second: Dirt Sprite_1097
+  - first:
+      213: 3941639732706689414
+    second: Dirt Sprite_1098
+  - first:
+      213: 7529101222675156868
+    second: Dirt Sprite_1099
+  - first:
+      213: 5001917228409723326
+    second: Dirt Sprite_1100
+  - first:
+      213: -6297771663188947442
+    second: Dirt Sprite_1101
+  - first:
+      213: -1243037815057822207
+    second: Dirt Sprite_1102
+  - first:
+      213: 6883716609837736568
+    second: Dirt Sprite_1103
+  - first:
+      213: 3974687784499956215
+    second: Dirt Sprite_1104
+  - first:
+      213: -5335656704977054231
+    second: Dirt Sprite_1105
+  - first:
+      213: 4613974664563450500
+    second: Dirt Sprite_1106
+  - first:
+      213: -7384735887283935823
+    second: Dirt Sprite_1107
+  - first:
+      213: 1653878744814220730
+    second: Dirt Sprite_1108
+  - first:
+      213: -889898867751884636
+    second: Dirt Sprite_1109
+  - first:
+      213: -7965387215455671295
+    second: Dirt Sprite_1110
+  - first:
+      213: -8415963415147733955
+    second: Dirt Sprite_1111
+  - first:
+      213: -5877143929924958343
+    second: Dirt Sprite_1112
+  - first:
+      213: -5197743306499323509
+    second: Dirt Sprite_1113
+  - first:
+      213: -7285778020446941090
+    second: Dirt Sprite_1114
+  - first:
+      213: -9132073590837202842
+    second: Dirt Sprite_1115
+  - first:
+      213: 3975050130878808029
+    second: Dirt Sprite_1116
+  - first:
+      213: 2505068082086226157
+    second: Dirt Sprite_1117
+  - first:
+      213: 484449890046109666
+    second: Dirt Sprite_1118
+  - first:
+      213: -655173675648156571
+    second: Dirt Sprite_1119
+  - first:
+      213: -422745307501905558
+    second: Dirt Sprite_1120
+  - first:
+      213: 3080857066012581527
+    second: Dirt Sprite_1121
+  - first:
+      213: 8532795078968878048
+    second: Dirt Sprite_1122
+  - first:
+      213: 1367248787874365800
+    second: Dirt Sprite_1123
+  - first:
+      213: 8552607301759579349
+    second: Dirt Sprite_1124
+  - first:
+      213: 8131589195347626415
+    second: Dirt Sprite_1125
+  - first:
+      213: -1478863291067477404
+    second: Dirt Sprite_1126
+  - first:
+      213: -7152028849923956425
+    second: Dirt Sprite_1127
+  - first:
+      213: -3820937421744524526
+    second: Dirt Sprite_1128
+  - first:
+      213: 3055170301396364541
+    second: Dirt Sprite_1129
+  - first:
+      213: -3199055735229334441
+    second: Dirt Sprite_1130
+  - first:
+      213: 5230026413285239687
+    second: Dirt Sprite_1131
+  - first:
+      213: -7335923740002454121
+    second: Dirt Sprite_1132
+  - first:
+      213: -5794535207471243910
+    second: Dirt Sprite_1133
+  - first:
+      213: 9144053311323899589
+    second: Dirt Sprite_1134
+  - first:
+      213: -6243856163752367198
+    second: Dirt Sprite_1135
+  - first:
+      213: -2952842105738898727
+    second: Dirt Sprite_1136
+  - first:
+      213: 3302655853869281026
+    second: Dirt Sprite_1137
+  - first:
+      213: -3581729522677051129
+    second: Dirt Sprite_1138
+  - first:
+      213: -5355632759028689293
+    second: Dirt Sprite_1139
+  - first:
+      213: -2446203681888315241
+    second: Dirt Sprite_1140
+  - first:
+      213: -849544371126631984
+    second: Dirt Sprite_1141
+  - first:
+      213: 82200077470710935
+    second: Dirt Sprite_1142
+  - first:
+      213: -4190005442333881216
+    second: Dirt Sprite_1143
+  - first:
+      213: -1586620363412656063
+    second: Dirt Sprite_1144
+  - first:
+      213: 4359873689379029513
+    second: Dirt Sprite_1145
+  - first:
+      213: 6172733281735538037
+    second: Dirt Sprite_1146
+  - first:
+      213: -5496389467672779336
+    second: Dirt Sprite_1147
+  - first:
+      213: 5837020729459529766
+    second: Dirt Sprite_1148
+  - first:
+      213: 4670719377097111091
+    second: Dirt Sprite_1149
+  - first:
+      213: -3817924907507213320
+    second: Dirt Sprite_1150
+  - first:
+      213: 3419282649692610463
+    second: Dirt Sprite_1151
+  - first:
+      213: -7053496820997929965
+    second: Dirt Sprite_1152
+  - first:
+      213: -54326807553280613
+    second: Dirt Sprite_1153
+  - first:
+      213: 2467133790663339683
+    second: Dirt Sprite_1154
+  - first:
+      213: -8315044490972003946
+    second: Dirt Sprite_1155
+  - first:
+      213: 7194918660076019014
+    second: Dirt Sprite_1156
+  - first:
+      213: -5095318448952755606
+    second: Dirt Sprite_1157
+  - first:
+      213: 3155323131654419610
+    second: Dirt Sprite_1158
+  - first:
+      213: -5959444615926380037
+    second: Dirt Sprite_1159
+  - first:
+      213: -2353247611809974880
+    second: Dirt Sprite_1160
+  - first:
+      213: 2659642289165650730
+    second: Dirt Sprite_1161
+  - first:
+      213: -2457167538307927039
+    second: Dirt Sprite_1162
+  - first:
+      213: 172175769967287126
+    second: Dirt Sprite_1163
+  - first:
+      213: -2049199057619970357
+    second: Dirt Sprite_1164
+  - first:
+      213: 407278525511964630
+    second: Dirt Sprite_1165
+  - first:
+      213: 5356797186523468843
+    second: Dirt Sprite_1166
+  - first:
+      213: 9057637811562582395
+    second: Dirt Sprite_1167
+  - first:
+      213: 3955207913902774437
+    second: Dirt Sprite_1168
+  - first:
+      213: 1024682894118838705
+    second: Dirt Sprite_1169
+  - first:
+      213: 6847861186133244189
+    second: Dirt Sprite_1170
+  - first:
+      213: -6757506273959508933
+    second: Dirt Sprite_1171
+  - first:
+      213: 8336688547811307450
+    second: Dirt Sprite_1172
+  - first:
+      213: -3345657309663282820
+    second: Dirt Sprite_1173
+  - first:
+      213: 5477102995235930562
+    second: Dirt Sprite_1174
+  - first:
+      213: 4067842699778682140
+    second: Dirt Sprite_1175
+  - first:
+      213: 7465780943886608231
+    second: Dirt Sprite_1176
+  - first:
+      213: 1750455847098354772
+    second: Dirt Sprite_1177
+  - first:
+      213: 5649915206208855153
+    second: Dirt Sprite_1178
+  - first:
+      213: 5683320153027795693
+    second: Dirt Sprite_1179
+  - first:
+      213: -9067019764690641144
+    second: Dirt Sprite_1180
+  - first:
+      213: 8473246670833566228
+    second: Dirt Sprite_1181
+  - first:
+      213: -2157935800933446977
+    second: Dirt Sprite_1182
+  - first:
+      213: -652705494977186059
+    second: Dirt Sprite_1183
+  - first:
+      213: -4752758625929919434
+    second: Dirt Sprite_1184
+  - first:
+      213: 8773498715946010499
+    second: Dirt Sprite_1185
+  - first:
+      213: -7774054839433184143
+    second: Dirt Sprite_1186
+  - first:
+      213: 8610327998877341310
+    second: Dirt Sprite_1187
+  - first:
+      213: 5791876577008072757
+    second: Dirt Sprite_1188
+  - first:
+      213: -3619489818567830465
+    second: Dirt Sprite_1189
+  - first:
+      213: -2978402202781001942
+    second: Dirt Sprite_1190
+  - first:
+      213: -3822871116525728801
+    second: Dirt Sprite_1191
+  - first:
+      213: -1635390821304562985
+    second: Dirt Sprite_1192
+  - first:
+      213: -4021745936980468618
+    second: Dirt Sprite_1193
+  - first:
+      213: 650444303423719463
+    second: Dirt Sprite_1194
+  - first:
+      213: -32131533294346357
+    second: Dirt Sprite_1195
+  - first:
+      213: -7822023116051865453
+    second: Dirt Sprite_1196
+  - first:
+      213: 3986353575328296363
+    second: Dirt Sprite_1197
+  - first:
+      213: -5474041106903216831
+    second: Dirt Sprite_1198
+  - first:
+      213: -4577220977421184381
+    second: Dirt Sprite_1199
+  - first:
+      213: -8876871009261731803
+    second: Dirt Sprite_1200
+  - first:
+      213: 7345415393700011125
+    second: Dirt Sprite_1201
+  - first:
+      213: -6937025513052027886
+    second: Dirt Sprite_1202
+  - first:
+      213: -2398079899819845976
+    second: Dirt Sprite_1203
+  - first:
+      213: 9183231982452536389
+    second: Dirt Sprite_1204
+  - first:
+      213: 7228192951002306253
+    second: Dirt Sprite_1205
+  - first:
+      213: -5099617845831817768
+    second: Dirt Sprite_1206
+  - first:
+      213: 7458723797886794997
+    second: Dirt Sprite_1207
+  - first:
+      213: 1265804351712365371
+    second: Dirt Sprite_1208
+  - first:
+      213: -5252251183807273152
+    second: Dirt Sprite_1209
+  - first:
+      213: 635938811355997274
+    second: Dirt Sprite_1210
+  - first:
+      213: -2292318757233576057
+    second: Dirt Sprite_1211
+  - first:
+      213: 6351963476678927364
+    second: Dirt Sprite_1212
+  - first:
+      213: -7587571673973668164
+    second: Dirt Sprite_1213
+  - first:
+      213: 3805286458834638871
+    second: Dirt Sprite_1214
+  - first:
+      213: 871000320631846454
+    second: Dirt Sprite_1215
+  - first:
+      213: -5189629301330658198
+    second: Dirt Sprite_1216
+  - first:
+      213: -972168623904243541
+    second: Dirt Sprite_1217
+  - first:
+      213: -775247240729852324
+    second: Dirt Sprite_1218
+  - first:
+      213: -2521343182464405558
+    second: Dirt Sprite_1219
+  - first:
+      213: -4190831782285675825
+    second: Dirt Sprite_1220
+  - first:
+      213: -4081786374387031902
+    second: Dirt Sprite_1221
+  - first:
+      213: -4743896348250584271
+    second: Dirt Sprite_1222
+  - first:
+      213: -3277228678181908101
+    second: Dirt Sprite_1223
+  - first:
+      213: 55492771514140913
+    second: Dirt Sprite_1224
+  - first:
+      213: 5672284729656235635
+    second: Dirt Sprite_1225
+  - first:
+      213: 3618963363869154963
+    second: Dirt Sprite_1226
+  - first:
+      213: 30697146137825354
+    second: Dirt Sprite_1227
+  - first:
+      213: 3538717526116784184
+    second: Dirt Sprite_1228
+  - first:
+      213: 4174194355778207449
+    second: Dirt Sprite_1229
+  - first:
+      213: 7760933924324253358
+    second: Dirt Sprite_1230
+  - first:
+      213: -8522068534304529163
+    second: Dirt Sprite_1231
+  - first:
+      213: 2041079438107233085
+    second: Dirt Sprite_1232
+  - first:
+      213: -193548719227119750
+    second: Dirt Sprite_1233
+  - first:
+      213: -8933623604225015012
+    second: Dirt Sprite_1234
+  - first:
+      213: 3832677214123626966
+    second: Dirt Sprite_1235
+  - first:
+      213: 8117850450771418072
+    second: Dirt Sprite_1236
+  - first:
+      213: 1584776025130006645
+    second: Dirt Sprite_1237
+  - first:
+      213: 9086365142620423775
+    second: Dirt Sprite_1238
+  - first:
+      213: -6360881967105151537
+    second: Dirt Sprite_1239
+  - first:
+      213: 63372259847948334
+    second: Dirt Sprite_1240
+  - first:
+      213: 2469581985664794564
+    second: Dirt Sprite_1241
+  - first:
+      213: 6453780171796009227
+    second: Dirt Sprite_1242
+  - first:
+      213: -5597932138179694361
+    second: Dirt Sprite_1243
+  - first:
+      213: -4357854021257002795
+    second: Dirt Sprite_1244
+  - first:
+      213: 6894039747340320733
+    second: Dirt Sprite_1245
+  - first:
+      213: 7871072641416411595
+    second: Dirt Sprite_1246
+  - first:
+      213: -5703732502190447284
+    second: Dirt Sprite_1247
+  - first:
+      213: -2431633747419888
+    second: Dirt Sprite_1248
+  - first:
+      213: 8094048991958650727
+    second: Dirt Sprite_1249
+  - first:
+      213: -3161977917020791296
+    second: Dirt Sprite_1250
+  - first:
+      213: -8388726496422791669
+    second: Dirt Sprite_1251
+  - first:
+      213: 4275758761471669175
+    second: Dirt Sprite_1252
+  - first:
+      213: 1559537693337867362
+    second: Dirt Sprite_1253
+  - first:
+      213: 4846495958397992452
+    second: Dirt Sprite_1254
+  - first:
+      213: -2725089281199167781
+    second: Dirt Sprite_1255
+  - first:
+      213: -8992885755708431622
+    second: Dirt Sprite_1256
+  - first:
+      213: 7492870461237332584
+    second: Dirt Sprite_1257
+  - first:
+      213: 3036391718011495837
+    second: Dirt Sprite_1258
+  - first:
+      213: 9162584806784157530
+    second: Dirt Sprite_1259
+  - first:
+      213: 5755280276315110024
+    second: Dirt Sprite_1260
+  - first:
+      213: 8786486857627656486
+    second: Dirt Sprite_1261
+  - first:
+      213: 3717727225835268296
+    second: Dirt Sprite_1262
+  - first:
+      213: -5517617553000209966
+    second: Dirt Sprite_1263
+  - first:
+      213: -2736386833394256378
+    second: Dirt Sprite_1264
+  - first:
+      213: -4773383009254315463
+    second: Dirt Sprite_1265
+  - first:
+      213: 8257995344648706432
+    second: Dirt Sprite_1266
+  - first:
+      213: -3465555239033817910
+    second: Dirt Sprite_1267
+  - first:
+      213: 4770499473473996513
+    second: Dirt Sprite_1268
+  - first:
+      213: -7744284585908264958
+    second: Dirt Sprite_1269
+  - first:
+      213: 197412065637046072
+    second: Dirt Sprite_1270
+  - first:
+      213: 8243357179663870369
+    second: Dirt Sprite_1271
+  - first:
+      213: -8025539446839955197
+    second: Dirt Sprite_1272
+  - first:
+      213: -6828033171279975445
+    second: Dirt Sprite_1273
+  - first:
+      213: 8905576254708736305
+    second: Dirt Sprite_1274
+  - first:
+      213: -2517355451586497312
+    second: Dirt Sprite_1275
+  - first:
+      213: 6909750589192856524
+    second: Dirt Sprite_1276
+  - first:
+      213: 3701727837123522070
+    second: Dirt Sprite_1277
+  - first:
+      213: -7502798231234579966
+    second: Dirt Sprite_1278
+  - first:
+      213: -4173655687072681452
+    second: Dirt Sprite_1279
+  - first:
+      213: 4673777902293666111
+    second: Dirt Sprite_1280
+  - first:
+      213: 6606253177057193831
+    second: Dirt Sprite_1281
+  - first:
+      213: 5184516488014584855
+    second: Dirt Sprite_1282
+  - first:
+      213: 7047808340226271828
+    second: Dirt Sprite_1283
+  - first:
+      213: 3220570927876144517
+    second: Dirt Sprite_1284
+  - first:
+      213: 3717665278142069393
+    second: Dirt Sprite_1285
+  - first:
+      213: 7429425531235918379
+    second: Dirt Sprite_1286
+  - first:
+      213: -2150650559002069227
+    second: Dirt Sprite_1287
+  - first:
+      213: 7510858676737896184
+    second: Dirt Sprite_1288
+  - first:
+      213: -1943096178452764384
+    second: Dirt Sprite_1289
+  - first:
+      213: 8612197152640090511
+    second: Dirt Sprite_1290
+  - first:
+      213: 434697280847705800
+    second: Dirt Sprite_1291
+  - first:
+      213: 6201871952033844488
+    second: Dirt Sprite_1292
+  - first:
+      213: -3020995339399887632
+    second: Dirt Sprite_1293
+  - first:
+      213: 2976282473590898307
+    second: Dirt Sprite_1294
+  - first:
+      213: -794185743438712051
+    second: Dirt Sprite_1295
+  - first:
+      213: -4200524403382699793
+    second: Dirt Sprite_1296
+  - first:
+      213: -6224507467754403029
+    second: Dirt Sprite_1297
+  - first:
+      213: -764866560458305663
+    second: Dirt Sprite_1298
+  - first:
+      213: -6547510794589330126
+    second: Dirt Sprite_1299
+  - first:
+      213: 7187854630857966859
+    second: Dirt Sprite_1300
+  - first:
+      213: 9133521611589159918
+    second: Dirt Sprite_1301
+  - first:
+      213: -5107798519265412411
+    second: Dirt Sprite_1302
+  - first:
+      213: -8492648824346544387
+    second: Dirt Sprite_1303
+  - first:
+      213: 2064559599164398086
+    second: Dirt Sprite_1304
+  - first:
+      213: -7730889453255781878
+    second: Dirt Sprite_1305
+  - first:
+      213: -8621711364450320479
+    second: Dirt Sprite_1306
+  - first:
+      213: 9206068424154294754
+    second: Dirt Sprite_1307
+  - first:
+      213: 4169094125210919673
+    second: Dirt Sprite_1308
+  - first:
+      213: 7365206138909062631
+    second: Dirt Sprite_1309
+  - first:
+      213: -4618332862392865595
+    second: Dirt Sprite_1310
+  - first:
+      213: -347244508950058937
+    second: Dirt Sprite_1311
+  - first:
+      213: -3733817510638588240
+    second: Dirt Sprite_1312
+  - first:
+      213: 5368755356014861774
+    second: Dirt Sprite_1313
+  - first:
+      213: -349037434368211890
+    second: Dirt Sprite_1314
+  - first:
+      213: 6382331702590447233
+    second: Dirt Sprite_1315
+  - first:
+      213: -8055429167354453512
+    second: Dirt Sprite_1316
+  - first:
+      213: -1395101648824235370
+    second: Dirt Sprite_1317
+  - first:
+      213: -1377876736311997152
+    second: Dirt Sprite_1318
+  - first:
+      213: -3816996417201550766
+    second: Dirt Sprite_1319
+  - first:
+      213: 849531363307575268
+    second: Dirt Sprite_1320
+  - first:
+      213: -8237261672729567212
+    second: Dirt Sprite_1321
+  - first:
+      213: -2347385599438723424
+    second: Dirt Sprite_1322
+  - first:
+      213: 2111878365713379383
+    second: Dirt Sprite_1323
+  - first:
+      213: 5740734981841365552
+    second: Dirt Sprite_1324
+  - first:
+      213: 51450905738724756
+    second: Dirt Sprite_1325
+  - first:
+      213: -6534668656655562299
+    second: Dirt Sprite_1326
+  - first:
+      213: 6135382030800250293
+    second: Dirt Sprite_1327
+  - first:
+      213: -8081916160912425814
+    second: Dirt Sprite_1328
+  - first:
+      213: 2554641187215031253
+    second: Dirt Sprite_1329
+  - first:
+      213: -7284366283127230020
+    second: Dirt Sprite_1330
+  - first:
+      213: -5338898953087979635
+    second: Dirt Sprite_1331
+  - first:
+      213: -4549655919061813566
+    second: Dirt Sprite_1332
+  - first:
+      213: -111682526460523397
+    second: Dirt Sprite_1333
+  - first:
+      213: 4085640716950171309
+    second: Dirt Sprite_1334
+  - first:
+      213: -3147978866197640178
+    second: Dirt Sprite_1335
+  - first:
+      213: 2973580410189929976
+    second: Dirt Sprite_1336
+  - first:
+      213: 6728977041309346238
+    second: Dirt Sprite_1337
+  - first:
+      213: 3587278908277995557
+    second: Dirt Sprite_1338
+  - first:
+      213: -1173540038357501129
+    second: Dirt Sprite_1339
+  - first:
+      213: -6444895329717864984
+    second: Dirt Sprite_1340
+  - first:
+      213: 6444404935221747389
+    second: Dirt Sprite_1341
+  - first:
+      213: -1790162195717542756
+    second: Dirt Sprite_1342
+  - first:
+      213: -7952425532632115527
+    second: Dirt Sprite_1343
+  - first:
+      213: 5661722390533469392
+    second: Dirt Sprite_1344
+  - first:
+      213: 7200931437940381958
+    second: Dirt Sprite_1345
+  - first:
+      213: -643338177416684237
+    second: Dirt Sprite_1346
+  - first:
+      213: 4712976855128857969
+    second: Dirt Sprite_1347
+  - first:
+      213: -2321847261464877429
+    second: Dirt Sprite_1348
+  - first:
+      213: 1831862621031043528
+    second: Dirt Sprite_1349
+  - first:
+      213: 3379198088579108220
+    second: Dirt Sprite_1350
+  - first:
+      213: 4614548410473389286
+    second: Dirt Sprite_1351
+  - first:
+      213: -4881068980263483328
+    second: Dirt Sprite_1352
+  - first:
+      213: -2087763766307292078
+    second: Dirt Sprite_1353
+  - first:
+      213: 388211011424435723
+    second: Dirt Sprite_1354
+  - first:
+      213: -7031060366539286448
+    second: Dirt Sprite_1355
+  - first:
+      213: 8889853218591328539
+    second: Dirt Sprite_1356
+  - first:
+      213: 7847591054286753935
+    second: Dirt Sprite_1357
+  - first:
+      213: 2828929051777619371
+    second: Dirt Sprite_1358
+  - first:
+      213: 5841919441382969255
+    second: Dirt Sprite_1359
+  - first:
+      213: 6797756859710838325
+    second: Dirt Sprite_1360
+  - first:
+      213: 1832034129297553922
+    second: Dirt Sprite_1361
+  - first:
+      213: 6980580142642393402
+    second: Dirt Sprite_1362
+  - first:
+      213: -6164879573267185941
+    second: Dirt Sprite_1363
+  - first:
+      213: 3182564074138803823
+    second: Dirt Sprite_1364
+  - first:
+      213: -7321594646671966068
+    second: Dirt Sprite_1365
+  - first:
+      213: 5552409482449245276
+    second: Dirt Sprite_1366
+  - first:
+      213: 8237579606764877940
+    second: Dirt Sprite_1367
+  - first:
+      213: -8006848621314356465
+    second: Dirt Sprite_1368
+  - first:
+      213: 6539737865644541165
+    second: Dirt Sprite_1369
+  - first:
+      213: 9181640986288393626
+    second: Dirt Sprite_1370
+  - first:
+      213: -5934164806436969422
+    second: Dirt Sprite_1371
+  - first:
+      213: 8965822273563551471
+    second: Dirt Sprite_1372
+  - first:
+      213: 5232775908945636564
+    second: Dirt Sprite_1373
+  - first:
+      213: 8140095050597765893
+    second: Dirt Sprite_1374
+  - first:
+      213: -5845436948529610564
+    second: Dirt Sprite_1375
+  - first:
+      213: 2329183132905627712
+    second: Dirt Sprite_1376
+  - first:
+      213: 1771511243615144423
+    second: Dirt Sprite_1377
+  - first:
+      213: -3573973530249473493
+    second: Dirt Sprite_1378
+  - first:
+      213: 6196995712539884564
+    second: Dirt Sprite_1379
+  - first:
+      213: -286462284604147870
+    second: Dirt Sprite_1380
+  - first:
+      213: 2952690286298479422
+    second: Dirt Sprite_1381
+  - first:
+      213: 8387198286878770029
+    second: Dirt Sprite_1382
+  - first:
+      213: 6743971873434777110
+    second: Dirt Sprite_1383
+  - first:
+      213: 2838105210050444735
+    second: Dirt Sprite_1384
+  - first:
+      213: -8125646773331099999
+    second: Dirt Sprite_1385
+  - first:
+      213: -5241333435727410023
+    second: Dirt Sprite_1386
+  - first:
+      213: -7517446531308321166
+    second: Dirt Sprite_1387
+  - first:
+      213: -1363301522939570650
+    second: Dirt Sprite_1388
+  - first:
+      213: -509754786590943216
+    second: Dirt Sprite_1389
+  - first:
+      213: 879159207317508413
+    second: Dirt Sprite_1390
+  - first:
+      213: 7950230700743826075
+    second: Dirt Sprite_1391
+  - first:
+      213: -8253582928147502656
+    second: Dirt Sprite_1392
+  - first:
+      213: -5044727105885649386
+    second: Dirt Sprite_1393
+  - first:
+      213: 4055741627935520312
+    second: Dirt Sprite_1394
+  - first:
+      213: -2918274249983665925
+    second: Dirt Sprite_1395
+  - first:
+      213: -1411828093686876688
+    second: Dirt Sprite_1396
+  - first:
+      213: 5194568485363235234
+    second: Dirt Sprite_1397
+  - first:
+      213: -6374442594142261275
+    second: Dirt Sprite_1398
+  - first:
+      213: 1041346995251657575
+    second: Dirt Sprite_1399
+  - first:
+      213: -8547346219537198593
+    second: Dirt Sprite_1400
+  - first:
+      213: 8390303284843693835
+    second: Dirt Sprite_1401
+  - first:
+      213: -2405190445086848861
+    second: Dirt Sprite_1402
+  - first:
+      213: 4400137703689343646
+    second: Dirt Sprite_1403
+  - first:
+      213: -1892512161861428612
+    second: Dirt Sprite_1404
+  - first:
+      213: 3484360571996205403
+    second: Dirt Sprite_1405
+  - first:
+      213: -1272944440483438065
+    second: Dirt Sprite_1406
+  - first:
+      213: -8343082103290352223
+    second: Dirt Sprite_1407
+  - first:
+      213: 3424380725658181653
+    second: Dirt Sprite_1408
+  - first:
+      213: 2634201159850637410
+    second: Dirt Sprite_1409
+  - first:
+      213: -148937840492953170
+    second: Dirt Sprite_1410
+  - first:
+      213: -2164899244065106318
+    second: Dirt Sprite_1411
+  - first:
+      213: -2238107729194971582
+    second: Dirt Sprite_1412
+  - first:
+      213: -8113964483416401727
+    second: Dirt Sprite_1413
+  - first:
+      213: 1250101953447646544
+    second: Dirt Sprite_1414
+  - first:
+      213: 8929101951929341717
+    second: Dirt Sprite_1415
+  - first:
+      213: 8086583790450010208
+    second: Dirt Sprite_1416
+  - first:
+      213: 7741047568410408468
+    second: Dirt Sprite_1417
+  - first:
+      213: 175266562481376440
+    second: Dirt Sprite_1418
+  - first:
+      213: 1374785980200037157
+    second: Dirt Sprite_1419
+  - first:
+      213: -5001107720287350791
+    second: Dirt Sprite_1420
+  - first:
+      213: 3493896620200322215
+    second: Dirt Sprite_1421
+  - first:
+      213: 3535390807916353893
+    second: Dirt Sprite_1422
+  - first:
+      213: -3914932547804003995
+    second: Dirt Sprite_1423
+  - first:
+      213: -7896009691417002768
+    second: Dirt Sprite_1424
+  - first:
+      213: -8435546416097731883
+    second: Dirt Sprite_1425
+  - first:
+      213: -8994179103975688867
+    second: Dirt Sprite_1426
+  - first:
+      213: -4478715524353678956
+    second: Dirt Sprite_1427
+  - first:
+      213: -5484136801063667256
+    second: Dirt Sprite_1428
+  - first:
+      213: -7002613211922467240
+    second: Dirt Sprite_1429
+  - first:
+      213: 8816027191995570597
+    second: Dirt Sprite_1430
+  - first:
+      213: -150285877339193823
+    second: Dirt Sprite_1431
+  - first:
+      213: -300737749249465931
+    second: Dirt Sprite_1432
+  - first:
+      213: 1715334417177848987
+    second: Dirt Sprite_1433
+  - first:
+      213: 4546999856800923830
+    second: Dirt Sprite_1434
+  - first:
+      213: -5168267144670478195
+    second: Dirt Sprite_1435
+  - first:
+      213: 3196381041541506535
+    second: Dirt Sprite_1436
+  - first:
+      213: 7352222739604249534
+    second: Dirt Sprite_1437
+  - first:
+      213: 9121274539507528344
+    second: Dirt Sprite_1438
+  - first:
+      213: -925758178515510703
+    second: Dirt Sprite_1439
+  - first:
+      213: -8781572862791492427
+    second: Dirt Sprite_1440
+  - first:
+      213: -5401226618059386315
+    second: Dirt Sprite_1441
+  - first:
+      213: 805834692119389279
+    second: Dirt Sprite_1442
+  - first:
+      213: 2611981942247763205
+    second: Dirt Sprite_1443
+  - first:
+      213: 5899445249765858670
+    second: Dirt Sprite_1444
+  - first:
+      213: 4810321204029306382
+    second: Dirt Sprite_1445
+  - first:
+      213: 1626986505806509494
+    second: Dirt Sprite_1446
+  - first:
+      213: 6354402807771008699
+    second: Dirt Sprite_1447
+  - first:
+      213: 9073036016545912185
+    second: Dirt Sprite_1448
+  - first:
+      213: 1185030709748578716
+    second: Dirt Sprite_1449
+  - first:
+      213: 3682199164990711964
+    second: Dirt Sprite_1450
+  - first:
+      213: 365844390111492160
+    second: Dirt Sprite_1451
+  - first:
+      213: -5662258243656700551
+    second: Dirt Sprite_1452
+  - first:
+      213: -5244371651488603577
+    second: Dirt Sprite_1453
+  - first:
+      213: 2762493398448542311
+    second: Dirt Sprite_1454
+  - first:
+      213: 9208166212563136322
+    second: Dirt Sprite_1455
+  - first:
+      213: 6614603749804086757
+    second: Dirt Sprite_1456
+  - first:
+      213: -6665624350424781224
+    second: Dirt Sprite_1457
+  - first:
+      213: -5630801483968494102
+    second: Dirt Sprite_1458
+  - first:
+      213: -1292522305342159277
+    second: Dirt Sprite_1459
+  - first:
+      213: -2596357770240539691
+    second: Dirt Sprite_1460
+  - first:
+      213: 7148482176628132999
+    second: Dirt Sprite_1461
+  - first:
+      213: 1156373493881086489
+    second: Dirt Sprite_1462
+  - first:
+      213: -3261464054601952306
+    second: Dirt Sprite_1463
+  - first:
+      213: 180639418660900725
+    second: Dirt Sprite_1464
+  - first:
+      213: 2144450734177234418
+    second: Dirt Sprite_1465
+  - first:
+      213: 430895687627864491
+    second: Dirt Sprite_1466
+  - first:
+      213: 6461877984408869279
+    second: Dirt Sprite_1467
+  - first:
+      213: 8217938386155204791
+    second: Dirt Sprite_1468
+  - first:
+      213: 5626033858184992821
+    second: Dirt Sprite_1469
+  - first:
+      213: 2970745702972493049
+    second: Dirt Sprite_1470
+  - first:
+      213: 3301713965327929744
+    second: Dirt Sprite_1471
+  - first:
+      213: 606187907509144766
+    second: Dirt Sprite_1472
+  - first:
+      213: 4960386400858631476
+    second: Dirt Sprite_1473
+  - first:
+      213: -3355741356372437745
+    second: Dirt Sprite_1474
+  - first:
+      213: 8394142528110779854
+    second: Dirt Sprite_1475
+  - first:
+      213: 2236257131127743399
+    second: Dirt Sprite_1476
+  - first:
+      213: 2100232102613829826
+    second: Dirt Sprite_1477
+  - first:
+      213: 6511863125872861788
+    second: Dirt Sprite_1478
+  - first:
+      213: 1912855307243621346
+    second: Dirt Sprite_1479
+  - first:
+      213: -3874879101972627311
+    second: Dirt Sprite_1480
+  - first:
+      213: 6899770001967659363
+    second: Dirt Sprite_1481
+  - first:
+      213: 137462293111317665
+    second: Dirt Sprite_1482
+  - first:
+      213: 7872819150465033396
+    second: Dirt Sprite_1483
+  - first:
+      213: -724926449434659916
+    second: Dirt Sprite_1484
+  - first:
+      213: -2276548825759717898
+    second: Dirt Sprite_1485
+  - first:
+      213: 408767702282127897
+    second: Dirt Sprite_1486
+  - first:
+      213: 7483274113742791649
+    second: Dirt Sprite_1487
+  - first:
+      213: -1930676436771632926
+    second: Dirt Sprite_1488
+  - first:
+      213: 3272795200376820534
+    second: Dirt Sprite_1489
+  - first:
+      213: 2666750054203080763
+    second: Dirt Sprite_1490
+  - first:
+      213: -39983035909186189
+    second: Dirt Sprite_1491
+  - first:
+      213: 1413406129046784785
+    second: Dirt Sprite_1492
+  - first:
+      213: 3885221274466983834
+    second: Dirt Sprite_1493
+  - first:
+      213: -4649935193248620783
+    second: Dirt Sprite_1494
+  - first:
+      213: -2409227965006052441
+    second: Dirt Sprite_1495
+  - first:
+      213: 7257744156902962584
+    second: Dirt Sprite_1496
+  - first:
+      213: 1813818033790385784
+    second: Dirt Sprite_1497
+  - first:
+      213: 8391044073231235716
+    second: Dirt Sprite_1498
+  - first:
+      213: -8655310604743408974
+    second: Dirt Sprite_1499
+  - first:
+      213: -5498908007812616219
+    second: Dirt Sprite_1500
+  - first:
+      213: 6833404146215769391
+    second: Dirt Sprite_1501
+  - first:
+      213: -497136826334835297
+    second: Dirt Sprite_1502
+  - first:
+      213: 857878113575464105
+    second: Dirt Sprite_1503
+  - first:
+      213: 6371203132098805249
+    second: Dirt Sprite_1504
+  - first:
+      213: -5298732214857780185
+    second: Dirt Sprite_1505
+  - first:
+      213: -3860114761963497469
+    second: Dirt Sprite_1506
+  - first:
+      213: 7022200348799694004
+    second: Dirt Sprite_1507
+  - first:
+      213: -5575406867100716518
+    second: Dirt Sprite_1508
+  - first:
+      213: 6057300523610535000
+    second: Dirt Sprite_1509
+  - first:
+      213: 5425943622892212270
+    second: Dirt Sprite_1510
+  - first:
+      213: 1620418845228997784
+    second: Dirt Sprite_1511
+  - first:
+      213: 3105000224967386745
+    second: Dirt Sprite_1512
+  - first:
+      213: 1221374072216767728
+    second: Dirt Sprite_1513
+  - first:
+      213: -7670140432179127853
+    second: Dirt Sprite_1514
+  - first:
+      213: -7998680825115066262
+    second: Dirt Sprite_1515
+  - first:
+      213: -1403614768460533034
+    second: Dirt Sprite_1516
+  - first:
+      213: 1430666040397824623
+    second: Dirt Sprite_1517
+  - first:
+      213: -4126249242136090959
+    second: Dirt Sprite_1518
+  - first:
+      213: 3067998694532053379
+    second: Dirt Sprite_1519
+  - first:
+      213: -1991934365175152290
+    second: Dirt Sprite_1520
+  - first:
+      213: 2525220955418324673
+    second: Dirt Sprite_1521
+  - first:
+      213: -107880270412164062
+    second: Dirt Sprite_1522
+  - first:
+      213: 100842715967465896
+    second: Dirt Sprite_1523
+  - first:
+      213: -7966052903253377967
+    second: Dirt Sprite_1524
+  - first:
+      213: 8870648057404456783
+    second: Dirt Sprite_1525
+  - first:
+      213: 9030039854378169283
+    second: Dirt Sprite_1526
+  - first:
+      213: 8868988050516552665
+    second: Dirt Sprite_1527
+  - first:
+      213: -3333944398535204036
+    second: Dirt Sprite_1528
+  - first:
+      213: 5359147529943539961
+    second: Dirt Sprite_1529
+  - first:
+      213: -1065623981097625697
+    second: Dirt Sprite_1530
+  - first:
+      213: 1285392047452324888
+    second: Dirt Sprite_1531
+  - first:
+      213: -3506096564254026905
+    second: Dirt Sprite_1532
+  - first:
+      213: 7794254931867015940
+    second: Dirt Sprite_1533
+  - first:
+      213: -7360961344738947641
+    second: Dirt Sprite_1534
+  - first:
+      213: -7351553220806396128
+    second: Dirt Sprite_1535
+  - first:
+      213: 2006102701666902804
+    second: Dirt Sprite_1536
+  - first:
+      213: 6796140974942023459
+    second: Dirt Sprite_1537
+  - first:
+      213: -1261252707779467200
+    second: Dirt Sprite_1538
+  - first:
+      213: -2586871765466798544
+    second: Dirt Sprite_1539
+  - first:
+      213: -2183185486723399313
+    second: Dirt Sprite_1540
+  - first:
+      213: 8581434977153084092
+    second: Dirt Sprite_1541
+  - first:
+      213: 8737405136431602539
+    second: Dirt Sprite_1542
+  - first:
+      213: 6010163840478489310
+    second: Dirt Sprite_1543
+  - first:
+      213: 4935904231416271678
+    second: Dirt Sprite_1544
+  - first:
+      213: -6374141346088236492
+    second: Dirt Sprite_1545
+  - first:
+      213: -795190968845744815
+    second: Dirt Sprite_1546
+  - first:
+      213: 7103526795590273779
+    second: Dirt Sprite_1547
+  - first:
+      213: -7067342102281612404
+    second: Dirt Sprite_1548
+  - first:
+      213: -4999160337518574264
+    second: Dirt Sprite_1549
+  - first:
+      213: -3953644168457221224
+    second: Dirt Sprite_1550
+  - first:
+      213: 1130103821444669344
+    second: Dirt Sprite_1551
+  - first:
+      213: 1045270671292499535
+    second: Dirt Sprite_1552
+  - first:
+      213: -166345750321724667
+    second: Dirt Sprite_1553
+  - first:
+      213: 9066577012249387573
+    second: Dirt Sprite_1554
+  - first:
+      213: -240934490414667683
+    second: Dirt Sprite_1555
+  - first:
+      213: -1759624860550738324
+    second: Dirt Sprite_1556
+  - first:
+      213: 1288265273202321686
+    second: Dirt Sprite_1557
+  - first:
+      213: -6487172692170424630
+    second: Dirt Sprite_1558
+  - first:
+      213: 3553499926265336947
+    second: Dirt Sprite_1559
+  - first:
+      213: -3432863151998371937
+    second: Dirt Sprite_1560
+  - first:
+      213: 5870203339512950293
+    second: Dirt Sprite_1561
+  - first:
+      213: -3779496588147137779
+    second: Dirt Sprite_1562
+  - first:
+      213: 7303693278227389971
+    second: Dirt Sprite_1563
+  - first:
+      213: 7281648997325014241
+    second: Dirt Sprite_1564
+  - first:
+      213: -7099704817290665965
+    second: Dirt Sprite_1565
+  - first:
+      213: 4265267874645316534
+    second: Dirt Sprite_1566
+  - first:
+      213: -1571189994543068270
+    second: Dirt Sprite_1567
+  - first:
+      213: 7064861172862562674
+    second: Dirt Sprite_1568
+  - first:
+      213: 7628310082602529011
+    second: Dirt Sprite_1569
+  - first:
+      213: -8138959627077023590
+    second: Dirt Sprite_1570
+  - first:
+      213: -2645345051557432280
+    second: Dirt Sprite_1571
+  - first:
+      213: -8315798023541894638
+    second: Dirt Sprite_1572
+  - first:
+      213: -4506704485957165811
+    second: Dirt Sprite_1573
+  - first:
+      213: -34264715209453233
+    second: Dirt Sprite_1574
+  - first:
+      213: -6744178921647351871
+    second: Dirt Sprite_1575
+  - first:
+      213: -1619308670052297125
+    second: Dirt Sprite_1576
+  - first:
+      213: -854530867630876058
+    second: Dirt Sprite_1577
+  - first:
+      213: -8908818164827209775
+    second: Dirt Sprite_1578
+  - first:
+      213: -6219376221115368927
+    second: Dirt Sprite_1579
+  - first:
+      213: -1783559690396538170
+    second: Dirt Sprite_1580
+  - first:
+      213: -7620183912702372787
+    second: Dirt Sprite_1581
+  - first:
+      213: 8365269267136719119
+    second: Dirt Sprite_1582
+  - first:
+      213: 2426102712859928018
+    second: Dirt Sprite_1583
+  - first:
+      213: 1667729269104363188
+    second: Dirt Sprite_1584
+  - first:
+      213: -8458294099611836406
+    second: Dirt Sprite_1585
+  - first:
+      213: 7933353217139053192
+    second: Dirt Sprite_1586
+  - first:
+      213: 7722190204477672374
+    second: Dirt Sprite_1587
+  - first:
+      213: 6565246619012825472
+    second: Dirt Sprite_1588
+  - first:
+      213: -5623311948175084564
+    second: Dirt Sprite_1589
+  - first:
+      213: 8413690206198569740
+    second: Dirt Sprite_1590
+  - first:
+      213: 7267424791764696572
+    second: Dirt Sprite_1591
+  - first:
+      213: -2862428759809340192
+    second: Dirt Sprite_1592
+  - first:
+      213: 1799953643617359471
+    second: Dirt Sprite_1593
+  - first:
+      213: -1355216336943388872
+    second: Dirt Sprite_1594
+  - first:
+      213: -6564238382706629181
+    second: Dirt Sprite_1595
+  - first:
+      213: -7974718035849421418
+    second: Dirt Sprite_1596
+  - first:
+      213: 3199544847332804842
+    second: Dirt Sprite_1597
+  - first:
+      213: 1511445850337188467
+    second: Dirt Sprite_1598
+  - first:
+      213: -2712981770954634174
+    second: Dirt Sprite_1599
+  - first:
+      213: -4968236934452656599
+    second: Dirt Sprite_1600
+  - first:
+      213: 5388743794760185137
+    second: Dirt Sprite_1601
+  - first:
+      213: -2642659591119949911
+    second: Dirt Sprite_1602
+  - first:
+      213: -5182091909709593476
+    second: Dirt Sprite_1603
+  - first:
+      213: -2887280739781212095
+    second: Dirt Sprite_1604
+  - first:
+      213: 5963502017436854985
+    second: Dirt Sprite_1605
+  - first:
+      213: -4741623668736699346
+    second: Dirt Sprite_1606
+  - first:
+      213: -6318672940173256435
+    second: Dirt Sprite_1607
+  - first:
+      213: -8195541054100117770
+    second: Dirt Sprite_1608
+  - first:
+      213: -5407349889613818673
+    second: Dirt Sprite_1609
+  - first:
+      213: -5847115504353948205
+    second: Dirt Sprite_1610
+  - first:
+      213: 5425143634760670702
+    second: Dirt Sprite_1611
+  - first:
+      213: -356818207340250337
+    second: Dirt Sprite_1612
+  - first:
+      213: 2735787576006905648
+    second: Dirt Sprite_1613
+  - first:
+      213: 2184906638608726653
+    second: Dirt Sprite_1614
+  - first:
+      213: -3154899076052759986
+    second: Dirt Sprite_1615
+  - first:
+      213: -110793901667149056
+    second: Dirt Sprite_1616
+  - first:
+      213: -1908744632104216133
+    second: Dirt Sprite_1617
+  - first:
+      213: -8459136311890573541
+    second: Dirt Sprite_1618
+  - first:
+      213: 4466261294022346405
+    second: Dirt Sprite_1619
+  - first:
+      213: -8737429392000953837
+    second: Dirt Sprite_1620
+  - first:
+      213: 6282195176171081860
+    second: Dirt Sprite_1621
+  - first:
+      213: -8043367009836991573
+    second: Dirt Sprite_1622
+  - first:
+      213: -2457801213554281035
+    second: Dirt Sprite_1623
+  - first:
+      213: -2628709509072333389
+    second: Dirt Sprite_1624
+  - first:
+      213: 7733719266599407838
+    second: Dirt Sprite_1625
+  - first:
+      213: 6159290639821189601
+    second: Dirt Sprite_1626
+  - first:
+      213: 463064536803281947
+    second: Dirt Sprite_1627
+  - first:
+      213: -1643448882470100655
+    second: Dirt Sprite_1628
+  - first:
+      213: -1093967054653605228
+    second: Dirt Sprite_1629
+  - first:
+      213: -6040934633098704111
+    second: Dirt Sprite_1630
+  - first:
+      213: 3554717357683239189
+    second: Dirt Sprite_1631
+  - first:
+      213: 6191883825528840320
+    second: Dirt Sprite_1632
+  - first:
+      213: 2435119102644041500
+    second: Dirt Sprite_1633
+  - first:
+      213: 2825345035269262352
+    second: Dirt Sprite_1634
+  - first:
+      213: -2491476383940599310
+    second: Dirt Sprite_1635
+  - first:
+      213: 6738546250338230421
+    second: Dirt Sprite_1636
+  - first:
+      213: -5304328861626909455
+    second: Dirt Sprite_1637
+  - first:
+      213: 7658746764466606682
+    second: Dirt Sprite_1638
+  - first:
+      213: -7067138988820741668
+    second: Dirt Sprite_1639
+  - first:
+      213: -3648044225985146994
+    second: Dirt Sprite_1640
+  - first:
+      213: 3346988382506562793
+    second: Dirt Sprite_1641
+  - first:
+      213: -2353991728097181054
+    second: Dirt Sprite_1642
+  - first:
+      213: -8962201925293559901
+    second: Dirt Sprite_1643
+  - first:
+      213: 3978690526269999188
+    second: Dirt Sprite_1644
+  - first:
+      213: 5753954608736668310
+    second: Dirt Sprite_1645
+  - first:
+      213: 1343298690364551346
+    second: Dirt Sprite_1646
+  - first:
+      213: -6869319485188456695
+    second: Dirt Sprite_1647
+  - first:
+      213: -3691741092099636420
+    second: Dirt Sprite_1648
+  - first:
+      213: 6305291348238545107
+    second: Dirt Sprite_1649
+  - first:
+      213: -5304326302897111697
+    second: Dirt Sprite_1650
+  - first:
+      213: -4251038718717432004
+    second: Dirt Sprite_1651
+  - first:
+      213: 492992739311804040
+    second: Dirt Sprite_1652
+  - first:
+      213: -8112542648475723739
+    second: Dirt Sprite_1653
+  - first:
+      213: 1578787830925316108
+    second: Dirt Sprite_1654
+  - first:
+      213: 9209567384418824177
+    second: Dirt Sprite_1655
+  - first:
+      213: -9135354907496209226
+    second: Dirt Sprite_1656
+  - first:
+      213: -2291573386111372777
+    second: Dirt Sprite_1657
+  - first:
+      213: -225131854294971661
+    second: Dirt Sprite_1658
+  - first:
+      213: -7637022903383003174
+    second: Dirt Sprite_1659
+  - first:
+      213: 8935639094162916459
+    second: Dirt Sprite_1660
+  - first:
+      213: -4427483025172133501
+    second: Dirt Sprite_1661
+  - first:
+      213: 345972811914173262
+    second: Dirt Sprite_1662
+  - first:
+      213: 7417500626639889696
+    second: Dirt Sprite_1663
+  - first:
+      213: -4819908566945718382
+    second: Dirt Sprite_1664
+  - first:
+      213: 1245851034868006167
+    second: Dirt Sprite_1665
+  - first:
+      213: 3970955398184025530
+    second: Dirt Sprite_1666
+  - first:
+      213: 8678284638269338445
+    second: Dirt Sprite_1667
+  - first:
+      213: 6181609019468084169
+    second: Dirt Sprite_1668
+  - first:
+      213: 3006021406824812031
+    second: Dirt Sprite_1669
+  - first:
+      213: 6460471421362857807
+    second: Dirt Sprite_1670
+  - first:
+      213: 3588771730542613790
+    second: Dirt Sprite_1671
+  - first:
+      213: -7656376800816296698
+    second: Dirt Sprite_1672
+  - first:
+      213: 5692296194319515022
+    second: Dirt Sprite_1673
+  - first:
+      213: -838581238984769399
+    second: Dirt Sprite_1674
+  - first:
+      213: 3915435583561792432
+    second: Dirt Sprite_1675
+  - first:
+      213: -596606741410960750
+    second: Dirt Sprite_1676
+  - first:
+      213: 7013973530627790624
+    second: Dirt Sprite_1677
+  - first:
+      213: 995842907641320554
+    second: Dirt Sprite_1678
+  - first:
+      213: 1352577176030513750
+    second: Dirt Sprite_1679
+  - first:
+      213: -4963468146611376387
+    second: Dirt Sprite_1680
+  - first:
+      213: 8957568516750693607
+    second: Dirt Sprite_1681
+  - first:
+      213: 690066765908431011
+    second: Dirt Sprite_1682
+  - first:
+      213: -5020919704952781671
+    second: Dirt Sprite_1683
+  - first:
+      213: -1103677060845224717
+    second: Dirt Sprite_1684
+  - first:
+      213: 503489200633011289
+    second: Dirt Sprite_1685
+  - first:
+      213: -7358344776136979652
+    second: Dirt Sprite_1686
+  - first:
+      213: 4696301151926449616
+    second: Dirt Sprite_1687
+  - first:
+      213: -6810082074116838549
+    second: Dirt Sprite_1688
+  - first:
+      213: -1042167786967707137
+    second: Dirt Sprite_1689
+  - first:
+      213: -453754659756404347
+    second: Dirt Sprite_1690
+  - first:
+      213: 8835729648929902549
+    second: Dirt Sprite_1691
+  - first:
+      213: 5078804365820577798
+    second: Dirt Sprite_1692
+  - first:
+      213: 1892595929996553842
+    second: Dirt Sprite_1693
+  - first:
+      213: 3842485724560759155
+    second: Dirt Sprite_1694
+  - first:
+      213: -5914491000732527285
+    second: Dirt Sprite_1695
+  - first:
+      213: -4475787884850253842
+    second: Dirt Sprite_1696
+  - first:
+      213: -2066428743990876774
+    second: Dirt Sprite_1697
+  - first:
+      213: -631707117045327909
+    second: Dirt Sprite_1698
+  - first:
+      213: -1976007116790209844
+    second: Dirt Sprite_1699
+  - first:
+      213: -2425709359710797251
+    second: Dirt Sprite_1700
+  - first:
+      213: -7168104774947815318
+    second: Dirt Sprite_1701
+  - first:
+      213: 6207001180411048230
+    second: Dirt Sprite_1702
+  - first:
+      213: -3746572149755181768
+    second: Dirt Sprite_1703
+  - first:
+      213: 1247764527921435823
+    second: Dirt Sprite_1704
+  - first:
+      213: 5244079846617776816
+    second: Dirt Sprite_1705
+  - first:
+      213: 2187048626039777764
+    second: Dirt Sprite_1706
+  - first:
+      213: -7449384293591495712
+    second: Dirt Sprite_1707
+  - first:
+      213: -2909660647246722484
+    second: Dirt Sprite_1708
+  - first:
+      213: -5291157037585952659
+    second: Dirt Sprite_1709
+  - first:
+      213: 6566207370887601528
+    second: Dirt Sprite_1710
+  - first:
+      213: -2557866926832727666
+    second: Dirt Sprite_1711
+  - first:
+      213: -2406643625368252272
+    second: Dirt Sprite_1712
+  - first:
+      213: 3195030925047823843
+    second: Dirt Sprite_1713
+  - first:
+      213: 8830612283951716322
+    second: Dirt Sprite_1714
+  - first:
+      213: -369670455111460461
+    second: Dirt Sprite_1715
+  - first:
+      213: -6209715683288594390
+    second: Dirt Sprite_1716
+  - first:
+      213: 8117871494733041961
+    second: Dirt Sprite_1717
+  - first:
+      213: 1076621888359786856
+    second: Dirt Sprite_1718
+  - first:
+      213: -4505103718109741568
+    second: Dirt Sprite_1719
+  - first:
+      213: 6592667924512729027
+    second: Dirt Sprite_1720
+  - first:
+      213: 5125416676141617806
+    second: Dirt Sprite_1721
+  - first:
+      213: 3644686994055575584
+    second: Dirt Sprite_1722
+  - first:
+      213: -4671253326893800270
+    second: Dirt Sprite_1723
+  - first:
+      213: -7385450958289078248
+    second: Dirt Sprite_1724
+  - first:
+      213: 6396723693324626135
+    second: Dirt Sprite_1725
+  - first:
+      213: -484798809491820650
+    second: Dirt Sprite_1726
+  - first:
+      213: 6181973706788492354
+    second: Dirt Sprite_1727
+  - first:
+      213: 5153151400044825090
+    second: Dirt Sprite_1728
+  - first:
+      213: -8475301697416942678
+    second: Dirt Sprite_1729
+  - first:
+      213: -1430308087162868648
+    second: Dirt Sprite_1730
+  - first:
+      213: -6163965066839935467
+    second: Dirt Sprite_1731
+  - first:
+      213: -5268295446825809818
+    second: Dirt Sprite_1732
+  - first:
+      213: 7167934850011446526
+    second: Dirt Sprite_1733
+  - first:
+      213: 6233049820083108087
+    second: Dirt Sprite_1734
+  - first:
+      213: -1863533035328149178
+    second: Dirt Sprite_1735
+  - first:
+      213: 1495749790130650446
+    second: Dirt Sprite_1736
+  - first:
+      213: -662421630895091385
+    second: Dirt Sprite_1737
+  - first:
+      213: -866653881931182172
+    second: Dirt Sprite_1738
+  - first:
+      213: -5095745094305205673
+    second: Dirt Sprite_1739
+  - first:
+      213: -179305986927687409
+    second: Dirt Sprite_1740
+  - first:
+      213: -2762586051943129700
+    second: Dirt Sprite_1741
+  - first:
+      213: 829284721559554812
+    second: Dirt Sprite_1742
+  - first:
+      213: 4324168313111751724
+    second: Dirt Sprite_1743
+  - first:
+      213: 5499873050981538770
+    second: Dirt Sprite_1744
+  - first:
+      213: -1354978833449303827
+    second: Dirt Sprite_1745
+  - first:
+      213: -781865730178058115
+    second: Dirt Sprite_1746
+  - first:
+      213: 1149769738258481316
+    second: Dirt Sprite_1747
+  - first:
+      213: -2824287313856294820
+    second: Dirt Sprite_1748
+  - first:
+      213: -3514585257808611910
+    second: Dirt Sprite_1749
+  - first:
+      213: 1695134981393005990
+    second: Dirt Sprite_1750
+  - first:
+      213: 454445156107473587
+    second: Dirt Sprite_1751
+  - first:
+      213: 7183937219523048804
+    second: Dirt Sprite_1752
+  - first:
+      213: -2328983617524815943
+    second: Dirt Sprite_1753
+  - first:
+      213: -6593700979402244292
+    second: Dirt Sprite_1754
+  - first:
+      213: 3612178062289901165
+    second: Dirt Sprite_1755
+  - first:
+      213: 2959209163097163792
+    second: Dirt Sprite_1756
+  - first:
+      213: 7279212604662440627
+    second: Dirt Sprite_1757
+  - first:
+      213: -2424666243489006065
+    second: Dirt Sprite_1758
+  - first:
+      213: -3912736559416728888
+    second: Dirt Sprite_1759
+  - first:
+      213: 7094675847501057882
+    second: Dirt Sprite_1760
+  - first:
+      213: -2710210662625754967
+    second: Dirt Sprite_1761
+  - first:
+      213: -3598017783137090580
+    second: Dirt Sprite_1762
+  - first:
+      213: -2538666902987406836
+    second: Dirt Sprite_1763
+  - first:
+      213: -2792918945877789001
+    second: Dirt Sprite_1764
+  - first:
+      213: 5425046969521908862
+    second: Dirt Sprite_1765
+  - first:
+      213: -1148931804708796921
+    second: Dirt Sprite_1766
+  - first:
+      213: 8746963995846785486
+    second: Dirt Sprite_1767
+  - first:
+      213: 7374102749560415306
+    second: Dirt Sprite_1768
+  - first:
+      213: -782805370869718599
+    second: Dirt Sprite_1769
+  - first:
+      213: 5727588822724024310
+    second: Dirt Sprite_1770
+  - first:
+      213: 547950309879630509
+    second: Dirt Sprite_1771
+  - first:
+      213: -4563758491272422114
+    second: Dirt Sprite_1772
+  - first:
+      213: 230454517415638541
+    second: Dirt Sprite_1773
+  - first:
+      213: -6238774660702943719
+    second: Dirt Sprite_1774
+  - first:
+      213: -9046947305080114138
+    second: Dirt Sprite_1775
+  - first:
+      213: -6875598931366429055
+    second: Dirt Sprite_1776
+  - first:
+      213: -3623094228648909915
+    second: Dirt Sprite_1777
+  - first:
+      213: 747777783909012920
+    second: Dirt Sprite_1778
+  - first:
+      213: -6720970179469577702
+    second: Dirt Sprite_1779
+  - first:
+      213: -1115314475573875168
+    second: Dirt Sprite_1780
+  - first:
+      213: -3841239856689969214
+    second: Dirt Sprite_1781
+  - first:
+      213: 6809478684951609448
+    second: Dirt Sprite_1782
+  - first:
+      213: 8109655773336200140
+    second: Dirt Sprite_1783
+  - first:
+      213: 943511547423711654
+    second: Dirt Sprite_1784
+  - first:
+      213: 6017489753002794563
+    second: Dirt Sprite_1785
+  - first:
+      213: -5605046795089174246
+    second: Dirt Sprite_1786
+  - first:
+      213: 2888333345179835835
+    second: Dirt Sprite_1787
+  - first:
+      213: -1909084249473723165
+    second: Dirt Sprite_1788
+  - first:
+      213: -520255619182555953
+    second: Dirt Sprite_1789
+  - first:
+      213: -6617637227507137408
+    second: Dirt Sprite_1790
+  - first:
+      213: 7041327507462764377
+    second: Dirt Sprite_1791
+  - first:
+      213: -3532367004467831700
+    second: Dirt Sprite_1792
+  - first:
+      213: 249372111923309817
+    second: Dirt Sprite_1793
+  - first:
+      213: 1028948678369568941
+    second: Dirt Sprite_1794
+  - first:
+      213: 5256618022972732142
+    second: Dirt Sprite_1795
+  - first:
+      213: -8185601513721370990
+    second: Dirt Sprite_1796
+  - first:
+      213: 7152572043590683575
+    second: Dirt Sprite_1797
+  - first:
+      213: -1593986795391265707
+    second: Dirt Sprite_1798
+  - first:
+      213: -8444342187407561949
+    second: Dirt Sprite_1799
+  - first:
+      213: -3717684032865499728
+    second: Dirt Sprite_1800
+  - first:
+      213: 347667782466496112
+    second: Dirt Sprite_1801
+  - first:
+      213: 4214654394393959353
+    second: Dirt Sprite_1802
+  - first:
+      213: -187726850191898178
+    second: Dirt Sprite_1803
+  - first:
+      213: -1426686754562050258
+    second: Dirt Sprite_1804
+  - first:
+      213: 1139153511381229428
+    second: Dirt Sprite_1805
+  - first:
+      213: -8430370170819017731
+    second: Dirt Sprite_1806
+  - first:
+      213: -8332007908867970123
+    second: Dirt Sprite_1807
+  - first:
+      213: 111802041168076226
+    second: Dirt Sprite_1808
+  - first:
+      213: 105019267500205778
+    second: Dirt Sprite_1809
+  - first:
+      213: 7370659236520389138
+    second: Dirt Sprite_1810
+  - first:
+      213: 3651083384119145296
+    second: Dirt Sprite_1811
+  - first:
+      213: -4400016548920071294
+    second: Dirt Sprite_1812
+  - first:
+      213: -3702177880201512333
+    second: Dirt Sprite_1813
+  - first:
+      213: -6940296883909034161
+    second: Dirt Sprite_1814
+  - first:
+      213: 6028909472198314385
+    second: Dirt Sprite_1815
+  - first:
+      213: 5677556646971204699
+    second: Dirt Sprite_1816
+  - first:
+      213: 4080688445092801674
+    second: Dirt Sprite_1817
+  - first:
+      213: -6762644259631660902
+    second: Dirt Sprite_1818
+  - first:
+      213: -7353240150645255993
+    second: Dirt Sprite_1819
+  - first:
+      213: 6358938553818929336
+    second: Dirt Sprite_1820
+  - first:
+      213: -7395778830444277940
+    second: Dirt Sprite_1821
+  - first:
+      213: 1803491264386512970
+    second: Dirt Sprite_1822
+  - first:
+      213: -3592849753637051871
+    second: Dirt Sprite_1823
+  - first:
+      213: -9206368994532068192
+    second: Dirt Sprite_1824
+  - first:
+      213: -3845177497101303021
+    second: Dirt Sprite_1825
+  - first:
+      213: 2134089638245065817
+    second: Dirt Sprite_1826
+  - first:
+      213: -6865120228884250615
+    second: Dirt Sprite_1827
+  - first:
+      213: -2088085972334325260
+    second: Dirt Sprite_1828
+  - first:
+      213: -753432031453780616
+    second: Dirt Sprite_1829
+  - first:
+      213: -1086743980517777439
+    second: Dirt Sprite_1830
+  - first:
+      213: 5565238012639308588
+    second: Dirt Sprite_1831
+  - first:
+      213: -1046120274234575555
+    second: Dirt Sprite_1832
+  - first:
+      213: -6317913391174015105
+    second: Dirt Sprite_1833
+  - first:
+      213: -4713731493809882346
+    second: Dirt Sprite_1834
+  - first:
+      213: 3408293436491918263
+    second: Dirt Sprite_1835
+  - first:
+      213: -7210230396261854204
+    second: Dirt Sprite_1836
+  - first:
+      213: 5991397633823404187
+    second: Dirt Sprite_1837
+  - first:
+      213: 6947135298446134873
+    second: Dirt Sprite_1838
+  - first:
+      213: -7327525847311670432
+    second: Dirt Sprite_1839
+  - first:
+      213: -904725849439021549
+    second: Dirt Sprite_1840
+  - first:
+      213: 715470883942580935
+    second: Dirt Sprite_1841
+  - first:
+      213: -2874888086558237298
+    second: Dirt Sprite_1842
+  - first:
+      213: -4691520601107579049
+    second: Dirt Sprite_1843
+  - first:
+      213: 4782044020643183732
+    second: Dirt Sprite_1844
+  - first:
+      213: 7520750301196292206
+    second: Dirt Sprite_1845
+  - first:
+      213: 7191394277071847349
+    second: Dirt Sprite_1846
+  - first:
+      213: -171446158204142279
+    second: Dirt Sprite_1847
+  - first:
+      213: -7894515941728125985
+    second: Dirt Sprite_1848
+  - first:
+      213: 4650840878886697139
+    second: Dirt Sprite_1849
+  - first:
+      213: -152099862931008859
+    second: Dirt Sprite_1850
+  - first:
+      213: 4713405851799188795
+    second: Dirt Sprite_1851
+  - first:
+      213: 5117372295001877433
+    second: Dirt Sprite_1852
+  - first:
+      213: -6159938858998828801
+    second: Dirt Sprite_1853
+  - first:
+      213: -8377449377052560987
+    second: Dirt Sprite_1854
+  - first:
+      213: -6742596360019228242
+    second: Dirt Sprite_1855
+  - first:
+      213: 6646872070422945155
+    second: Dirt Sprite_1856
+  - first:
+      213: 9153284447306256931
+    second: Dirt Sprite_1857
+  - first:
+      213: -2822132851261603663
+    second: Dirt Sprite_1858
+  - first:
+      213: -1418138967533285308
+    second: Dirt Sprite_1859
+  - first:
+      213: 5699834676280485303
+    second: Dirt Sprite_1860
+  - first:
+      213: 272068037208191296
+    second: Dirt Sprite_1861
+  - first:
+      213: -930605245080208433
+    second: Dirt Sprite_1862
+  - first:
+      213: -6578846900234117315
+    second: Dirt Sprite_1863
+  - first:
+      213: 7721398618381782261
+    second: Dirt Sprite_1864
+  - first:
+      213: -4888118190052779346
+    second: Dirt Sprite_1865
+  - first:
+      213: 7523658541470126410
+    second: Dirt Sprite_1866
+  - first:
+      213: 6408832955112443315
+    second: Dirt Sprite_1867
+  - first:
+      213: 6919616223652386797
+    second: Dirt Sprite_1868
+  - first:
+      213: 4625577390524913010
+    second: Dirt Sprite_1869
+  - first:
+      213: -8664978751563074240
+    second: Dirt Sprite_1870
+  - first:
+      213: 1876188107634808677
+    second: Dirt Sprite_1871
+  - first:
+      213: -2984632029964407699
+    second: Dirt Sprite_1872
+  - first:
+      213: -4000982388111905651
+    second: Dirt Sprite_1873
+  - first:
+      213: 1347408887644009632
+    second: Dirt Sprite_1874
+  - first:
+      213: -3570581664769385714
+    second: Dirt Sprite_1875
+  - first:
+      213: -4593646117682597582
+    second: Dirt Sprite_1876
+  - first:
+      213: 7339155239749113878
+    second: Dirt Sprite_1877
+  - first:
+      213: -1539842164680614187
+    second: Dirt Sprite_1878
+  - first:
+      213: 8843392254202076577
+    second: Dirt Sprite_1879
+  - first:
+      213: -5820388022171776842
+    second: Dirt Sprite_1880
+  - first:
+      213: -5345927592098196220
+    second: Dirt Sprite_1881
+  - first:
+      213: -7082729816208925669
+    second: Dirt Sprite_1882
+  - first:
+      213: 6763217515750168631
+    second: Dirt Sprite_1883
+  - first:
+      213: 4801011516413510802
+    second: Dirt Sprite_1884
+  - first:
+      213: 4128069874246024882
+    second: Dirt Sprite_1885
+  - first:
+      213: -1753019671642341723
+    second: Dirt Sprite_1886
+  - first:
+      213: 7670324680385427566
+    second: Dirt Sprite_1887
+  - first:
+      213: -9114078634045498004
+    second: Dirt Sprite_1888
+  - first:
+      213: -7629409415386888002
+    second: Dirt Sprite_1889
+  - first:
+      213: 6604951368544523944
+    second: Dirt Sprite_1890
+  - first:
+      213: -4831594850075773902
+    second: Dirt Sprite_1891
+  - first:
+      213: 8553055283715334477
+    second: Dirt Sprite_1892
+  - first:
+      213: 3158254358456158811
+    second: Dirt Sprite_1893
+  - first:
+      213: -2448751365194993955
+    second: Dirt Sprite_1894
+  - first:
+      213: 3610348082262790405
+    second: Dirt Sprite_1895
+  - first:
+      213: 2810102539539902856
+    second: Dirt Sprite_1896
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dirt Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d8f75d46b17ed0800000000000000
+      internalID: -2417951081616584595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c881bf3f3c4940800000000000000
+      internalID: 5281666005792769833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090f13c33e93c860800000000000000
+      internalID: 7549051345557195011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0fcea0fbd33b650800000000000000
+      internalID: 6247404998824358049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18388a6e77227080800000000000000
+      internalID: -9191240465603086309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39912b7d626e0290800000000000000
+      internalID: -7922286472141366977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1040d07fddebe0800000000000000
+      internalID: -1446254229692867370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27904451cb91aa840800000000000000
+      internalID: 5236025812372949362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af63dba0403bfe00800000000000000
+      internalID: 1079509590004166565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -36,7 +36,7 @@ public class LevelController : MonoBehaviour
         winLabel.SetActive(true);
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(waitToLoad);
-        FindObjectOfType<LevelLoader>().LoadNextScene();
+        FindObjectOfType<LevelLoader>().LoadStartScreen();
     }
 
     public void LevelTimerFinished()

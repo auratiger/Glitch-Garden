@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0fce94959885004abe421a0b7b9dcb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelTime: 3
+  levelTime: 10
 --- !u!1 &416334528
 GameObject:
   m_ObjectHideFlags: 0
@@ -451,10 +451,10 @@ RectTransform:
   m_Father: {fileID: 3007159964894952391}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -638.4, y: -472.1}
-  m_SizeDelta: {x: 164.68347, y: 123.41756}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 138.29999, y: -103.31311}
+  m_SizeDelta: {x: 211.37158, y: 148.42908}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6009556036499480601
 CanvasRenderer:
@@ -485,7 +485,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: f42cba09a9bdb4149ad7bc5a42a45e88, type: 3}
-    m_FontSize: 70
+    m_FontSize: 80
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -678,7 +678,7 @@ GameObject:
   - component: {fileID: 3007159964894952389}
   - component: {fileID: 3007159964894952388}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Game Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

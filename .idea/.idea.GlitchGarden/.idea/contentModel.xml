@@ -19,7 +19,10 @@
           <e p="LevelController.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
+          <e p="MusicPlayer.cs" t="Include" />
+          <e p="PlayerPrefsController.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
+          <e p="SettingsController.cs" t="Include" />
           <e p="ShootEvent.cs" t="Include" />
           <e p="StarsDisplay.cs" t="Include" />
         </e>
