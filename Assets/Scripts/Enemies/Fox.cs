@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fox : MonoBehaviour
+public class Fox : Enemy
 {
 
     private bool _hasJumped = false;

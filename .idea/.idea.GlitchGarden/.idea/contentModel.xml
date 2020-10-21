@@ -8,20 +8,28 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="DeathCollider.cs" t="Include" />
-          <e p="Defender.cs" t="Include" />
           <e p="DefenderButton.cs" t="Include" />
+          <e p="DefenderS" t="Include">
+            <e p="Defender.cs" t="Include" />
+          </e>
           <e p="DefenderSpawner.cs" t="Include" />
-          <e p="Enemy.cs" t="Include" />
+          <e p="DeleteButton.cs" t="Include" />
+          <e p="Enemies" t="Include">
+            <e p="Enemy.cs" t="Include" />
+            <e p="Fox.cs" t="Include" />
+            <e p="Health.cs" t="Include" />
+            <e p="Lizard.cs" t="Include" />
+            <e p="Robot.cs" t="Include" />
+          </e>
           <e p="EnemySpawner.cs" t="Include" />
-          <e p="Fox.cs" t="Include" />
           <e p="GameTimer.cs" t="Include" />
-          <e p="Health.cs" t="Include" />
           <e p="LevelController.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
-          <e p="Lizard.cs" t="Include" />
           <e p="MusicPlayer.cs" t="Include" />
           <e p="PlayerPrefsController.cs" t="Include" />
-          <e p="Projectile.cs" t="Include" />
+          <e p="Projectiles" t="Include">
+            <e p="Projectile.cs" t="Include" />
+          </e>
           <e p="SettingsController.cs" t="Include" />
           <e p="ShootEvent.cs" t="Include" />
           <e p="StarsDisplay.cs" t="Include" />

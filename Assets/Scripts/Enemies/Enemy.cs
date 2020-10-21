@@ -6,10 +6,10 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
 
-    [Range(0f, 5f)] private float walkSpeed = 1f;
+    [Range(0f, 5f)] protected float walkSpeed = 1f;
 
-    private GameObject _currentTarget;
-    private Animator _animator;
+    protected GameObject _currentTarget;
+    protected Animator _animator;
     
     // Start is called before the first frame update
     void Awake()
@@ -18,7 +18,7 @@ public class Enemy : MonoBehaviour
         _animator = GetComponent<Animator>();
     }
 
-    private void OnDestroy()
+    protected void OnDestroy()
     {
         LevelController levelController = FindObjectOfType<LevelController>();
         if (levelController != null)
@@ -30,11 +30,16 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector2.left * (Time.deltaTime * walkSpeed));
+        Move();
         UpdateAnimationState();
     }
 
-    private void UpdateAnimationState()
+    protected void Move()
+    {
+        transform.Translate(Vector2.left * (Time.deltaTime * walkSpeed));
+    }
+
+    protected void UpdateAnimationState()
     {
         if (!_currentTarget)
         {

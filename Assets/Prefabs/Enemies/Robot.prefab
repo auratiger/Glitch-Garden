@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2601106790025112829}
   - component: {fileID: 1555542410514578753}
   - component: {fileID: 5249907288180657535}
-  - component: {fileID: 2423625826870296345}
   - component: {fileID: 3174747072619135663}
+  - component: {fileID: 2578933338027788798}
   m_Layer: 0
   m_Name: Robot
   m_TagString: Untagged
@@ -102,18 +102,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.79318917, y: 0.9001603}
   m_EdgeRadius: 0
---- !u!114 &2423625826870296345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1219895895163539361}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62fb2d5ab76c7bf42817a0a5b874dc17, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &3174747072619135663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,6 +116,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 200
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
+--- !u!114 &2578933338027788798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1219895895163539361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e04cf3f9213fcc24c85ef476d5e48f46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7613976912573662642
 GameObject:
   m_ObjectHideFlags: 0

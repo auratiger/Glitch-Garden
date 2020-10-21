@@ -9,11 +9,6 @@ public class DefenderButton : MonoBehaviour
 
     [SerializeField] private Defender defenderPrefab;
 
-    private void Start()
-    {
-        
-    }
-
     private void LabelButtonWithCost()
     {
         Text costText = GetComponentInChildren<Text>();
@@ -36,5 +31,15 @@ public class DefenderButton : MonoBehaviour
         }
         GetComponent<SpriteRenderer>().color = Color.white;
         FindObjectOfType<DefenderSpawner>().SetSelectedDefender(defenderPrefab);
+    }
+
+    public void DeselectButtons()
+    {
+        var buttons = FindObjectsOfType<DefenderButton>();
+        foreach (DefenderButton button in buttons)
+        {
+            button.GetComponent<SpriteRenderer>().color = new Color32(41,41 ,41 , 255);
+        }
+        FindObjectOfType<DefenderSpawner>().SetSelectedDefender(null);
     }
 }

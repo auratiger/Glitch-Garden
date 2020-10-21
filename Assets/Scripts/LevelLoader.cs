@@ -41,6 +41,22 @@ public class LevelLoader : MonoBehaviour
         SceneManager.LoadScene("Start Screen");
     }
 
+    public void LoadLevelMenu()
+    {
+        SceneManager.LoadScene("Menu Screen");
+    }
+
+    public void LoadLevel(string levelName)
+    {
+        SceneManager.LoadScene(levelName);
+    }
+
+    public void RetryLevel()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(_currentSceneIndex);
+    }
+
     public void QuitGame()
     {
         Application.Quit();

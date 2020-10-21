@@ -11,6 +11,8 @@ public class LevelController : MonoBehaviour
     private int _numberOfEnemies = 0;
     private bool _levelTimerFinished = false;
 
+    private bool _deleteCursorSet = false;
+
     private void Start()
     {
         winLabel.SetActive(false);
@@ -53,5 +55,15 @@ public class LevelController : MonoBehaviour
         {
             spawner.StopSpawning();
         }
+    }
+
+    public bool IsDeleteCursor()
+    {
+        return _deleteCursorSet;
+    }
+
+    public void SetDeleteCursor(bool cursor)
+    {
+        _deleteCursorSet = cursor;
     }
 }

@@ -26,4 +26,5 @@ public class PlayerPrefsController : MonoBehaviour
     {
         return PlayerPrefs.GetFloat(MASTER_VOLUME_KEY);
     }
+    
 }
